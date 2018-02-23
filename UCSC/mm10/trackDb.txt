@@ -1,0 +1,6 @@
+track 706
+bigDataUrl http://zfhub.com/UCSC/mm10/BIGWIG/N706_region.bedgraph.bw 
+shortLabel 706
+longLabel 706
+type bigWig
+
