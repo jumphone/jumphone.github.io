@@ -1,6 +1,6 @@
-track 706
+track 706_chr10_39048069_39087304
 bigDataUrl http://zfhub.com/UCSC/mm10/BIGWIG/N706_region.bedgraph.bw 
 shortLabel 706
-longLabel 706
+longLabel 706_chr10_39048069_39087304
 type bigWig
 
