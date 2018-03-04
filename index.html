@@ -1,15 +1,65 @@
 <!DOCTYPE html>
 <html>
-<body>
+<script language=JavaScript>
+<!--
+var caution = false
+function setCookie(name, value, expires, path, domain, secure){
+var curCookie = name + "=" + escape(value) +
+((expires) ? "; expires=" + expires.toGMTString() : "") +
+((path) ? "; path=" + path : "") +
+((domain) ? "; domain=" + domain : "") +
+((secure) ? "; secure" : "")
+if (!caution || (name + "=" + escape(value)).length<= 4000)
+document.cookie = curCookie
+else
+if (confirm("Cookie exceeds 4KB and will be cut!"))
+document.cookie = curCookie
+}
+function getCookie(name) {
+var prefix = name + "="
+var cookieStartIndex = document.cookie.indexOf(prefix)
+if (cookieStartIndex == -1)
+return null
+var cookieEndIndex = document.cookie.indexOf(";", cookieStartIndex+ prefix.length)
+if (cookieEndIndex == -1)
+cookieEndIndex = document.cookie.length
+return unescape(document.cookie.substring(cookieStartIndex +prefix.length, cookieEndIndex))
+}
+function deleteCookie(name, path, domain) {
+if (getCookie(name)) {
+document.cookie = name + "=" +
+((path) ? "; path=" + path : "") +
+((domain) ? "; domain=" + domain : "") +
+"; expires=Thu, 01-Jan-70 00:00:01 GMT"
+}
+}
+function fixDate(date) {
+var base = new Date(0)
+var skew = base.getTime()
+if (skew > 0)
+date.setTime(date.getTime() - skew)
+}
+var now = new Date()
+fixDate(now)
+now.setTime(now.getTime() + 365 * 24 * 60 * 60 * 1000)
+var visits = getCookie("counter")
+if (!visits)
+visits = 1
+else
+visits = parseInt(visits) + 1
+setCookie("counter", visits, now)
+document.write("#Vistor: " + visits +"")
+// -->
+</script>
 
-<b><a href=https://github.com/jumphone >MyGithub</a></b>
+<body>
   
 <h2>Zhang, Feng</h2>
 <p> PhD student in Biostatistics </p>
 <p> State Key Laboratory of Genetic Engineering </p>
 <p> School of Life Sciences, Fudan University </p>
 <p> Email: <b><u>fzhang15@fudan.edu.cn</u></b>, <b><u>15110700005@fudan.edu.cn</u></b> </p>
-
+<p>  <b><a href=https://github.com/jumphone >MyGithub</a></b> </p>
   
 <h2>Education</h2>
 <p> * 2015-Present, PhD Student, School of Life Sciences, Fudan University, Major: <b><u>Biostatistics</u></b> </p>
@@ -22,6 +72,6 @@
 <h2>Publication</h2>
 <p> * <b><u>Zhang F</u></b>, Lu Y, Yan S, Xing Q, Tian W*: SPRINT: an SNP-free toolkit for identifying RNA editing sites. Bioinformatics 2017. Jul 24. </p>
 <p> * Dong X#, Wang X#, <b><u>Zhang F</u></b>, Tian W*:  Genome-wide identification of regulatory sequences undergoing accelerated evolution in the human genome. Mol Biol Evol 2016. Jul 8.  </p> 
-  
+
 </body>
 </html>
