@@ -5,7 +5,7 @@
 ## I. Single-cell analysis
 
 #### 1. Reference-based tool
-<img src="https://github.com/jumphone/jumphone.github.io/blob/master/img/scref_logo.png?raw=true" width="120" height="96">
+<img src="https://github.com/jumphone/jumphone.github.io/blob/master/img/scref_logo.png?raw=true" width="100" >
 
 [https://github.com/jumphone/scRef](https://github.com/jumphone/scRef)
 
