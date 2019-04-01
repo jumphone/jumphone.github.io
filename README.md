@@ -3,7 +3,7 @@
 ### Single-cell analysis
 
 #### 1. Reference-based tool
-<img src="https://github.com/jumphone/scRef/blob/master/source/NewLogo.png?raw=true" width="150" height="150">
+<img src="https://github.com/jumphone/scRef/blob/master/source/NewLogo.png?raw=true" width="140" height="150">
 
 Code: https://github.com/jumphone/scRef
 
