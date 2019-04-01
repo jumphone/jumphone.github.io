@@ -1,7 +1,7 @@
 # Research Areas:
 
 ---------------------------------------
-
+</br>
 ## I. Single-cell analysis
 
 #### 1. Reference-based tool
@@ -19,7 +19,7 @@ Code: [https://github.com/jumphone/BEER](https://github.com/jumphone/BEER)
 Ref. Feng Zhang, Yu Wu, Weidong Tian*; A novel approach to remove the batch effect of single-cell data, 2019 (manuscript under consideration)
 
 ---------------------------------------
-
+</br>
 ## II. RNA editing
 
 #### 1. RNA editing identification tool
@@ -30,7 +30,7 @@ Code: [https://github.com/jumphone/SPRINT](https://github.com/jumphone/SPRINT)
 Ref. Feng Zhang, Yulan Lu, Sijia Yan, Qinghe Xing, Weidong Tian*; SPRINT: an SNP-free toolkit for identifying RNA editing sites, Bioinformatics, 2017, [https://doi.org/10.1093/bioinformatics/btx473](https://doi.org/10.1093/bioinformatics/btx473)
 
 ---------------------------------------
-
+</br>
 ## III. Mendelian disease
 
 #### 1. Diagnosis tool (phenotype-driven analysis)
@@ -39,6 +39,7 @@ Ref. Feng Zhang, Yulan Lu, Sijia Yan, Qinghe Xing, Weidong Tian*; SPRINT: an SNP
 Ref. Zixiu Li#, Feng Zhang#, Yukai Wang, Yue Qiu, Yang Wu, Yulan Lu, Lin Yang, William J Qu, Huijun Wang, Wenhao Zhou*, Weidong Tian*; PhenoPro: a novel toolkit for assisting in the diagnosis of Mendelian disease, Bioinformatics, 2019, [https://doi.org/10.1093/bioinformatics/btz100](https://doi.org/10.1093/bioinformatics/btz100)
 
 ---------------------------------------
+</br>
 ## IV. Biogeography
 
 #### 1. Ocean biogeography analysis
@@ -47,8 +48,9 @@ Ref. Zixiu Li#, Feng Zhang#, Yukai Wang, Yue Qiu, Yang Wu, Yulan Lu, Lin Yang, W
 Feng Zhang; Depth shifts exhibited by marine organisms
 
 ---------------------------------------
-
-# * Collaborations:
+</br>
+</br>
+# Collaborations:
 
 1. Genome-wide identification of regulatory sequences undergoing accelerated evolution in the human genome, Molecular Biology and Evolution, 2016, [https://doi.org/10.1093/molbev/msw128](https://doi.org/10.1093/molbev/msw128)
 
