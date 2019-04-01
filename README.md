@@ -58,7 +58,14 @@ Feng Zhang and Jiaoyang Song; Depth shifts exhibited by marine organisms
 3.Single-cell Transcriptomics Uncovers Glial Progenitor Diversity and Cell Fate Determinants during Development and Gliomagenesis, Cell Stem Cell, 2019 (in press)
 
 
+# Education & Experience:
+* 2018-Present, Graduate Assistant & Visiting Scholar, Cincinnati Children's Hospital Medical Center
+* 2015-Present, PhD Student, School of Life Sciences, Fudan University, School of Life Sciences, Major: Biostatistics
+* 2015-2016, Teaching Asistant, Biostatistics: Theories and Applications, Fudan University
+* 2011-2015, Bachelor degree, School of Mathematics, Shandong University, School of Mathmatics, Major: Information Security
 
+# Contact:
 
+fzhang15_at_fudan.edu.cn
 
 
