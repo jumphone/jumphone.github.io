@@ -46,7 +46,7 @@ Ref. Zixiu Li#, Feng Zhang#, Yukai Wang, Yue Qiu, Yang Wu, Yulan Lu, Lin Yang, W
 
 ---------------------------------------
 
-## Collaborations:
+## * Collaborations:
 
 1. Genome-wide identification of regulatory sequences undergoing accelerated evolution in the human genome, Molecular Biology and Evolution, 2016
 
