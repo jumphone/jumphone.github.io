@@ -1,5 +1,7 @@
 # Research Areas:
 
+---------------------------------------
+
 # Single-cell analysis
 
 #### 1. Reference-based tool
@@ -15,6 +17,8 @@ Ref. Feng Zhang, Yaguang Dou, Rohit R Rao, Q. Richard Lu, Weidong Tian*; SCREF: 
 Code: [https://github.com/jumphone/BEER](https://github.com/jumphone/BEER)
 
 Ref. Feng Zhang, Yu Wu, Weidong Tian*; A novel approach to remove the batch effect of single-cell data, 2019 (Manuscript under consideration)
+
+---------------------------------------
 
 # Biogeography
 
