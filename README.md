@@ -65,6 +65,8 @@ Feng Zhang and Jiaoyang Song; Depth shifts exhibited by marine organisms
 
 2018-Present, Graduate Assistant & Visiting Scholar, Cincinnati Children's Hospital Medical Center, USA
 
+<img src="https://github.com/jumphone/jumphone.github.io/blob/master/img/fudan_logo.png?raw=true" width="100">
+
 2015-Present, PhD, School of Life Sciences, Fudan University, School of Life Sciences, Biostatistics, China
 
 2015-2016, Teaching Asistant, Biostatistics: Theories and Applications, Fudan University, China
