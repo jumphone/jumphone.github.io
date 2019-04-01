@@ -1,6 +1,6 @@
 # Research Areas:
 
-
+---------------------------------------
 
 ## Single-cell analysis
 
@@ -18,7 +18,6 @@ Code: [https://github.com/jumphone/BEER](https://github.com/jumphone/BEER)
 
 Ref. Feng Zhang, Yu Wu, Weidong Tian*; A novel approach to remove the batch effect of single-cell data, 2019 (Manuscript under consideration)
 
----------------------------------------
 ---------------------------------------
 
 ## Biogeography
