@@ -23,7 +23,7 @@ Feng Zhang, Yu Wu, Weidong Tian*; A novel approach to remove the batch effect of
 ## II. RNA editing
 
 #### 1. RNA editing identification tool
-<img src="https://github.com/jumphone/SPRINT/blob/master/data/LOGO.png?raw=true" width="120" height="120">
+<img src="https://github.com/jumphone/SPRINT/blob/master/data/LOGO.png?raw=true" width="120" >
 
 [https://github.com/jumphone/SPRINT](https://github.com/jumphone/SPRINT)
 
