@@ -7,14 +7,14 @@
 
 Code: [https://github.com/jumphone/scRef](https://github.com/jumphone/scRef)
 
-Ref. Feng Zhang, Yaguang Dou, Rohit R Rao, Q. Richard Lu, Weidong Tian*; SCREF: a reference-based solution for single-cell analysis, 2019 (Manuscript Under Consideration)
+Ref. Feng Zhang, Yaguang Dou, Rohit R Rao, Q. Richard Lu, Weidong Tian*; SCREF: a reference-based solution for single-cell analysis, 2019 (Manuscript under consideration)
 
 #### 2. Batch effect remover
 <img src="https://raw.githubusercontent.com/jumphone/BEER/master/DATA/BEER_LOGO.png?raw=true" width="150" height="150">
 
 Code: [https://github.com/jumphone/BEER](https://github.com/jumphone/BEER)
 
-Ref. Feng Zhang, Yu Wu, Weidong Tian*; A novel approach to remove the batch effect of single-cell data, 2019 (Manuscript Under Consideration)
+Ref. Feng Zhang, Yu Wu, Weidong Tian*; A novel approach to remove the batch effect of single-cell data, 2019 (Manuscript under consideration)
 
 # Biogeography
 
