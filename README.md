@@ -2,6 +2,7 @@
 
 ---------------------------------------
 </br>
+
 ## I. Single-cell analysis
 
 #### 1. Reference-based tool
@@ -20,6 +21,7 @@ Ref. Feng Zhang, Yu Wu, Weidong Tian*; A novel approach to remove the batch effe
 
 ---------------------------------------
 </br>
+
 ## II. RNA editing
 
 #### 1. RNA editing identification tool
@@ -31,6 +33,7 @@ Ref. Feng Zhang, Yulan Lu, Sijia Yan, Qinghe Xing, Weidong Tian*; SPRINT: an SNP
 
 ---------------------------------------
 </br>
+
 ## III. Mendelian disease
 
 #### 1. Diagnosis tool (phenotype-driven analysis)
@@ -40,6 +43,7 @@ Ref. Zixiu Li#, Feng Zhang#, Yukai Wang, Yue Qiu, Yang Wu, Yulan Lu, Lin Yang, W
 
 ---------------------------------------
 </br>
+
 ## IV. Biogeography
 
 #### 1. Ocean biogeography analysis
@@ -50,6 +54,7 @@ Feng Zhang; Depth shifts exhibited by marine organisms
 ---------------------------------------
 </br>
 </br>
+
 # Collaborations:
 
 1. Genome-wide identification of regulatory sequences undergoing accelerated evolution in the human genome, Molecular Biology and Evolution, 2016, [https://doi.org/10.1093/molbev/msw128](https://doi.org/10.1093/molbev/msw128)
