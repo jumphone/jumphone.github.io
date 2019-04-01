@@ -4,7 +4,7 @@
 
 # PhenoPro
 
-<img src="https://github.com/jumphone/jumphone.github.io/blob/master/img/phenopro_logo.png?raw=true" width="200">
+<img src="https://github.com/jumphone/jumphone.github.io/blob/master/img/phenopro_logo.png?raw=true" width="150">
 
 # scRef
 
