@@ -46,4 +46,16 @@ Ref. Zixiu Li#, Feng Zhang#, Yukai Wang, Yue Qiu, Yang Wu, Yulan Lu, Lin Yang, W
 
 ---------------------------------------
 
+## Collaborations:
+
+1. Genome-wide identification of regulatory sequences undergoing accelerated evolution in the human genome, Molecular Biology and Evolution, 2016
+
+2. Dual requirement of CHD8 for chromatin landscape establishment and histone methyltransferase recruitment to promote CNS myelination and repair, Developmental Cell, 2018
+
+3. Single-cell Transcriptomics Uncovers Glial Progenitor Diversity and Cell Fate Determinants during Development and Gliomagenesis, Cell Stem Cell, 2019
+
+
+
+
+
 
