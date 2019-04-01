@@ -1,7 +1,5 @@
 # Research Areas:
 
-Hi, my name is Feng Zhang. I'm a PhD student at Fundan University. My major is Biostatistics.
-
 ---------------------------------------
 
 ## I. Single-cell analysis
