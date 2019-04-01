@@ -7,14 +7,14 @@
 #### 1. Reference-based tool
 <img src="https://github.com/jumphone/jumphone.github.io/blob/master/img/scref_logo.png?raw=true" width="150" height="120">
 
-Code: [https://github.com/jumphone/scRef](https://github.com/jumphone/scRef)
+[https://github.com/jumphone/scRef](https://github.com/jumphone/scRef)
 
 Feng Zhang, Yaguang Dou, Rohit R Rao, Q. Richard Lu, Weidong Tian*; SCREF: a reference-based solution for single-cell analysis, 2019 (manuscript under consideration)
 
 #### 2. Batch effect remover
 <img src="https://raw.githubusercontent.com/jumphone/BEER/master/DATA/BEER_LOGO.png?raw=true" width="150" height="150">
 
-Code: [https://github.com/jumphone/BEER](https://github.com/jumphone/BEER)
+[https://github.com/jumphone/BEER](https://github.com/jumphone/BEER)
 
 Feng Zhang, Yu Wu, Weidong Tian*; A novel approach to remove the batch effect of single-cell data, 2019 (manuscript under consideration)
 
@@ -25,7 +25,7 @@ Feng Zhang, Yu Wu, Weidong Tian*; A novel approach to remove the batch effect of
 #### 1. RNA editing identification tool
 <img src="https://github.com/jumphone/SPRINT/blob/master/data/LOGO.png?raw=true" width="150" height="150">
 
-Code: [https://github.com/jumphone/SPRINT](https://github.com/jumphone/SPRINT)
+[https://github.com/jumphone/SPRINT](https://github.com/jumphone/SPRINT)
 
 Feng Zhang, Yulan Lu, Sijia Yan, Qinghe Xing, Weidong Tian*; SPRINT: an SNP-free toolkit for identifying RNA editing sites, Bioinformatics, 2017, [https://doi.org/10.1093/bioinformatics/btx473](https://doi.org/10.1093/bioinformatics/btx473)
 
