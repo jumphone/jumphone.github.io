@@ -59,6 +59,7 @@ Feng Zhang and Jiaoyang Song; Depth shifts exhibited by marine organisms
 
 3.Single-cell Transcriptomics Uncovers Glial Progenitor Diversity and Cell Fate Determinants during Development and Gliomagenesis, Cell Stem Cell, 2019 (in press)
 
+---------------------------------------
 
 # Education & Experience:
 <img src="https://github.com/jumphone/jumphone.github.io/blob/master/img/cchmc_logo.jpeg?raw=true" width="200">
@@ -74,6 +75,8 @@ Feng Zhang and Jiaoyang Song; Depth shifts exhibited by marine organisms
 <img src="https://github.com/jumphone/jumphone.github.io/blob/master/img/shandong_logo.jpg?raw=true" width="85">
 
 2011-2015, BSc, School of Mathematics, Shandong University, School of Mathmatics, Information Security, China
+
+---------------------------------------
 
 # Contact:
 
