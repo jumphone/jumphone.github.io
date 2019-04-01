@@ -42,7 +42,7 @@ Ref. Zixiu Li#, Feng Zhang#, Yukai Wang, Yue Qiu, Yang Wu, Yulan Lu, Lin Yang, W
 
 ## IV. Biogeography
 
-#### 1. Ocean biogeography analysis
+#### 1. Ocean biogeographic analysis
 <img src="https://github.com/jumphone/jumphone.github.io/blob/master/img/ocean_logo.png?raw=true" width="150" height="150">
 
 Feng Zhang and Jiaoyang Song; Depth shifts exhibited by marine organisms
