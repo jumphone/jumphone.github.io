@@ -2,7 +2,7 @@
 
 ---------------------------------------
 
-# Single-cell analysis
+## Single-cell analysis
 
 #### 1. Reference-based tool
 <img src="https://github.com/jumphone/scRef/blob/master/source/NewLogo.png?raw=true" width="150" height="120">
@@ -20,20 +20,23 @@ Ref. Feng Zhang, Yu Wu, Weidong Tian*; A novel approach to remove the batch effe
 
 ---------------------------------------
 
-# Biogeography
+## Biogeography
 
 #### 1. Ocean biogeography analysis
 <img src="https://github.com/jumphone/jumphone.github.io/blob/master/img/ocean_logo.png?raw=true" width="150" height="150">
 
+---------------------------------------
 
-# Mendelian disease
+## Mendelian disease
 
 #### 1. Diagnosis tool (phenotype-driven analysis)
 <img src="https://github.com/jumphone/jumphone.github.io/blob/master/img/phenopro_logo.png?raw=true" width="140" height="180">
 
 Ref. Zixiu Li#, Feng Zhang#, Yukai Wang, Yue Qiu, Yang Wu, Yulan Lu, Lin Yang, William J Qu, Huijun Wang, Wenhao Zhou*, Weidong Tian*; PhenoPro: a novel toolkit for assisting in the diagnosis of Mendelian disease, Bioinformatics, 2019, [https://doi.org/10.1093/bioinformatics/btz100](https://doi.org/10.1093/bioinformatics/btz100)
 
-# RNA editing
+---------------------------------------
+
+## RNA editing
 
 #### 1. RNA editing identification tool
 <img src="https://github.com/jumphone/SPRINT/blob/master/data/LOGO.png?raw=true" width="150" height="150">
