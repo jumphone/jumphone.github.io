@@ -44,6 +44,8 @@ Ref. Zixiu Li#, Feng Zhang#, Yukai Wang, Yue Qiu, Yang Wu, Yulan Lu, Lin Yang, W
 #### 1. Ocean biogeography analysis
 <img src="https://github.com/jumphone/jumphone.github.io/blob/master/img/ocean_logo.png?raw=true" width="150" height="150">
 
+Feng Zhang; Depth shifts exhibited by marine organisms
+
 ---------------------------------------
 
 ## * Collaborations:
@@ -52,7 +54,7 @@ Ref. Zixiu Li#, Feng Zhang#, Yukai Wang, Yue Qiu, Yang Wu, Yulan Lu, Lin Yang, W
 
 2. Dual requirement of CHD8 for chromatin landscape establishment and histone methyltransferase recruitment to promote CNS myelination and repair, Developmental Cell, 2018
 
-3. Single-cell Transcriptomics Uncovers Glial Progenitor Diversity and Cell Fate Determinants during Development and Gliomagenesis, Cell Stem Cell, 2019
+3. Single-cell Transcriptomics Uncovers Glial Progenitor Diversity and Cell Fate Determinants during Development and Gliomagenesis, Cell Stem Cell, 2019 (in press)
 
 
 
