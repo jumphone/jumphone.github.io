@@ -50,9 +50,9 @@ Feng Zhang; Depth shifts exhibited by marine organisms
 
 ## * Collaborations:
 
-1. Genome-wide identification of regulatory sequences undergoing accelerated evolution in the human genome, Molecular Biology and Evolution, 2016
+1. Genome-wide identification of regulatory sequences undergoing accelerated evolution in the human genome, Molecular Biology and Evolution, 2016, [https://doi.org/10.1093/molbev/msw128](https://doi.org/10.1093/molbev/msw128)
 
-2. Dual requirement of CHD8 for chromatin landscape establishment and histone methyltransferase recruitment to promote CNS myelination and repair, Developmental Cell, 2018
+2. Dual requirement of CHD8 for chromatin landscape establishment and histone methyltransferase recruitment to promote CNS myelination and repair, Developmental Cell, 2018, [https://doi.org/10.1016/j.devcel.2018.05.022](https://doi.org/10.1016/j.devcel.2018.05.022)
 
 3. Single-cell Transcriptomics Uncovers Glial Progenitor Diversity and Cell Fate Determinants during Development and Gliomagenesis, Cell Stem Cell, 2019 (in press)
 
