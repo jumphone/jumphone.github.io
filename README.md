@@ -61,7 +61,7 @@ Feng Zhang and Jiaoyang Song; Depth shifts exhibited by marine organisms
 
 
 # Education & Experience:
-<img src="https://github.com/jumphone/jumphone.github.io/blob/master/img/cchmc_logo.jpeg?raw=true" width="100">
+<img src="https://github.com/jumphone/jumphone.github.io/blob/master/img/cchmc_logo.jpeg?raw=true" width="150">
 
 2018-Present, Graduate Assistant & Visiting Scholar, Cincinnati Children's Hospital Medical Center, USA
 
