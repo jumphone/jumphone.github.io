@@ -1,6 +1,8 @@
 theme: jekyll-theme-minimal
 
-title: Feng Zhang
-
+title: Zhang, Feng
+logo: /img/logo.png
 description: PhD student in Biostatistics, Fudan University; Graduate Assistant, CCHMC
+show_downloads: false
+google_analytics:
 
