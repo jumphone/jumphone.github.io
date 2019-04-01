@@ -80,7 +80,7 @@ Feng Zhang and Jiaoyang Song; Depth shifts exhibited by marine organisms
 
 # Contact:
 
-<img src="https://github.com/jumphone/jumphone.github.io/blob/master/img/panda_happy_logo.png?raw=true" width="100">
+<img src="https://github.com/jumphone/jumphone.github.io/blob/master/img/panda_happy_logo.png?raw=true" width="120">
 
 fzhang15_at_fudan.edu.cn
 
