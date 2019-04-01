@@ -8,7 +8,7 @@ Feng Zhang, Yulan Lu, Sijia Yan, Qinghe Xing, Weidong Tian*; SPRINT: an SNP-free
 
 # Mendelian disease
 
-#### Development clinical assistant tool (Phenotype-part job)
+#### Development diagnosis tool (phenotype-driven analysis)
 
 <img src="https://github.com/jumphone/jumphone.github.io/blob/master/img/phenopro_logo.png?raw=true" width="150" height="180">
 
