@@ -52,7 +52,7 @@ Zixiu Li#, Feng Zhang#, Yukai Wang, Yue Qiu, Yang Wu, Yulan Lu, Lin Yang, Willia
 
 2.Dual requirement of CHD8 for chromatin landscape establishment and histone methyltransferase recruitment to promote CNS myelination and repair, Developmental Cell, 2018, [https://doi.org/10.1016/j.devcel.2018.05.022](https://doi.org/10.1016/j.devcel.2018.05.022)
 
-3.Single-cell Transcriptomics Uncovers Glial Progenitor Diversity and Cell Fate Determinants during Development and Gliomagenesis, Cell Stem Cell, 2019 (in press)
+3.Single-cell Transcriptomics Uncovers Glial Progenitor Diversity and Cell Fate Determinants during Development and Gliomagenesis, Cell Stem Cell, 2019, https://doi.org/10.1016/j.stem.2019.03.006
 
 ---------------------------------------
 
