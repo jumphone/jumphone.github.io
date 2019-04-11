@@ -27,7 +27,7 @@ Feng Zhang, Yu Wu, Weidong Tian*; A novel approach to remove the batch effect of
 
 [https://github.com/jumphone/SPRINT](https://github.com/jumphone/SPRINT)
 
-Feng Zhang, Yulan Lu, Sijia Yan, Qinghe Xing, Weidong Tian*; SPRINT: an SNP-free toolkit for identifying RNA editing sites, Bioinformatics, 2017, [https://doi.org/10.1093/bioinformatics/btx473]
+Feng Zhang, Yulan Lu, Sijia Yan, Qinghe Xing, Weidong Tian*; SPRINT: an SNP-free toolkit for identifying RNA editing sites, Bioinformatics, 2017, [https://doi.org/10.1093/bioinformatics/btx473](https://doi.org/10.1093/bioinformatics/btx473)
 
 ---------------------------------------
 
@@ -38,7 +38,7 @@ Feng Zhang, Yulan Lu, Sijia Yan, Qinghe Xing, Weidong Tian*; SPRINT: an SNP-free
 
 [http://app.tianlab.cn/](http://app.tianlab.cn/)
 
-Zixiu Li#, Feng Zhang#, Yukai Wang, Yue Qiu, Yang Wu, Yulan Lu, Lin Yang, William J Qu, Huijun Wang, Wenhao Zhou\*, Weidong Tian*; PhenoPro: a novel toolkit for assisting in the diagnosis of Mendelian disease, Bioinformatics, 2019, [https://doi.org/10.1093/bioinformatics/btz100]
+Zixiu Li#, Feng Zhang#, Yukai Wang, Yue Qiu, Yang Wu, Yulan Lu, Lin Yang, William J Qu, Huijun Wang, Wenhao Zhou\*, Weidong Tian*; PhenoPro: a novel toolkit for assisting in the diagnosis of Mendelian disease, Bioinformatics, 2019, [https://doi.org/10.1093/bioinformatics/btz100](https://doi.org/10.1093/bioinformatics/btz100)
 
 ---------------------------------------
 
@@ -48,11 +48,11 @@ Zixiu Li#, Feng Zhang#, Yukai Wang, Yue Qiu, Yang Wu, Yulan Lu, Lin Yang, Willia
 
 # Collaborations:
 
-1.Genome-wide identification of regulatory sequences undergoing accelerated evolution in the human genome, Molecular Biology and Evolution, 2016, [https://doi.org/10.1093/molbev/msw128]
+1.Genome-wide identification of regulatory sequences undergoing accelerated evolution in the human genome, Molecular Biology and Evolution, 2016, [https://doi.org/10.1093/molbev/msw128](https://doi.org/10.1093/molbev/msw128)
 
 2.Dual requirement of CHD8 for chromatin landscape establishment and histone methyltransferase recruitment to promote CNS myelination and repair, Developmental Cell, 2018, [https://doi.org/10.1016/j.devcel.2018.05.022](https://doi.org/10.1016/j.devcel.2018.05.022)
 
-3.Single-cell Transcriptomics Uncovers Glial Progenitor Diversity and Cell Fate Determinants during Development and Gliomagenesis, Cell Stem Cell, 2019, [https://doi.org/10.1016/j.stem.2019.03.006]
+3.Single-cell Transcriptomics Uncovers Glial Progenitor Diversity and Cell Fate Determinants during Development and Gliomagenesis, Cell Stem Cell, 2019, [https://doi.org/10.1016/j.stem.2019.03.006](https://doi.org/10.1016/j.stem.2019.03.006)
 
 ---------------------------------------
 
