@@ -54,7 +54,7 @@ Zixiu Li#, Feng Zhang#, Yukai Wang, Yue Qiu, Yang Wu, Yulan Lu, Lin Yang, Willia
 
 3.Single-cell Transcriptomics Uncovers Glial Progenitor Diversity and Cell Fate Determinants during Development and Gliomagenesis, Cell Stem Cell, 2019, [https://doi.org/10.1016/j.stem.2019.03.006](https://doi.org/10.1016/j.stem.2019.03.006)
 
-4. The CAFA challenge reports improved protein function prediction and new functional annotations for hundreds of genes through experimental screens, bioRxiv, 2019, [https://doi.org/10.1101/653105](https://doi.org/10.1101/653105)
+4.The CAFA challenge reports improved protein function prediction and new functional annotations for hundreds of genes through experimental screens, bioRxiv, 2019, [https://doi.org/10.1101/653105](https://doi.org/10.1101/653105)
 
 ---------------------------------------
 
