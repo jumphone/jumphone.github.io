@@ -25,13 +25,6 @@ Coming soon ...
 
 Ongoing project
 
-#### 4. Cell-cell communication
-<img src="https://raw.githubusercontent.com/jumphone/Bioinformatics/master/scRNAseq/try_20190424/src/SCC_LOGO.png" width="120" height="120">
-
-[https://github.com/jumphone/SCC](https://github.com/jumphone/SCC)
-
-Ongoing project
-
 ---------------------------------------
 
 ## II. RNA editing
