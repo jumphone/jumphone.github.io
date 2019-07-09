@@ -19,7 +19,7 @@ Feng Zhang, Ying Peng, Yaguang Dou, Rohit R Rao, Q. Richard Lu, Weidong Tian*; S
 Feng Zhang, Yu Wu, Weidong Tian*; A novel approach to remove the batch effect of single-cell data, 2019 (in review)
 
 #### 3. Cell type deconvolution
-<img src="https://github.com/jumphone/jumphone.github.io/raw/master/img/Delia_LOGO.png" width="120" height="120">
+<img src="https://github.com/jumphone/jumphone.github.io/raw/master/img/Delia_LOGO.png" width="130" height="130">
 
 Coming soon ...
 
