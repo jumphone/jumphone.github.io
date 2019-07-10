@@ -21,9 +21,9 @@ Feng Zhang, Yu Wu, Weidong Tian*; A novel approach to remove the batch effect of
 #### 3. Cell type deconvolution
 <img src="https://github.com/jumphone/jumphone.github.io/raw/master/img/Delia_LOGO.png" width="130" height="130">
 
-Coming soon ...
+[https://github.com/jumphone/Delia](https://github.com/jumphone/Delia)
 
-Ongoing project
+Coming soon
 
 ---------------------------------------
 
