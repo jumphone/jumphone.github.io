@@ -4,19 +4,19 @@
 
 ## I. Single-cell analysis
 
-#### 1. Reference-based toolkit
+#### 1. Batch effect remover
+<img src="https://raw.githubusercontent.com/jumphone/BEER/master/DATA/BEER_LOGO.png?raw=true" width="120" height="120">
+
+[https://github.com/jumphone/BEER](https://github.com/jumphone/BEER)
+
+Feng Zhang, Yu Wu, Weidong Tian*; A novel approach to remove the batch effect of single-cell data, Cell Discovery, 2019 (in press)
+
+#### 2. Reference-based toolkit
 <img src="https://github.com/jumphone/jumphone.github.io/blob/master/img/scref_logo.png?raw=true" width="110" >
 
 [https://github.com/jumphone/scRef](https://github.com/jumphone/scRef)
 
 Feng Zhang, Ying Peng, Yaguang Dou, Rohit R Rao, Q. Richard Lu, Weidong Tian*; SCREF: a reference-based solution for single-cell analysis, 2019 (in review)
-
-#### 2. Batch effect remover
-<img src="https://raw.githubusercontent.com/jumphone/BEER/master/DATA/BEER_LOGO.png?raw=true" width="120" height="120">
-
-[https://github.com/jumphone/BEER](https://github.com/jumphone/BEER)
-
-Feng Zhang, Yu Wu, Weidong Tian*; A novel approach to remove the batch effect of single-cell data, 2019 (in review)
 
 #### 3. Cell type deconvolution
 <img src="https://github.com/jumphone/jumphone.github.io/raw/master/img/Delia_LOGO.png" width="130" height="130">
