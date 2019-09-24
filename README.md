@@ -9,7 +9,7 @@
 
 [https://github.com/jumphone/BEER](https://github.com/jumphone/BEER)
 
-Feng Zhang, Yu Wu, Weidong Tian*; A novel approach to remove the batch effect of single-cell data, Cell Discovery, 2019, [https://www.nature.com/articles/s41421-019-0114-x](https://www.nature.com/articles/s41421-019-0114-x)
+Feng Zhang, Yu Wu, Weidong Tian*; A novel approach to remove the batch effect of single-cell data, Cell Discovery, 2019, [https://doi.org/10.1038/s41421-019-0114-x](https://doi.org/10.1038/s41421-019-0114-x)
 
 #### 2. Reference-based toolkit
 <img src="https://github.com/jumphone/jumphone.github.io/blob/master/img/scref_logo.png?raw=true" width="110" >
@@ -89,5 +89,4 @@ Zixiu Li#, Feng Zhang#, Yukai Wang, Yue Qiu, Yang Wu, Yulan Lu, Lin Yang, Willia
 fzhang15_at_fudan.edu.cn
 
 15110700005_at_fudan.edu.cn
-
 
