@@ -18,13 +18,6 @@ Feng Zhang, Yu Wu, Weidong Tian*; A novel approach to remove the batch effect of
 
 Feng Zhang, Ying Peng, Yaguang Dou, Rohit R Rao, Q. Richard Lu, Weidong Tian*; SCREF: a reference-based solution for single-cell analysis, 2019 (in review)
 
-#### 3. Cell type deconvolution
-<img src="https://github.com/jumphone/jumphone.github.io/raw/master/img/Delia_LOGO.png" width="130" height="130">
-
-[https://github.com/jumphone/Delia](https://github.com/jumphone/Delia)
-
-Coming soon
-
 ---------------------------------------
 
 ## II. RNA editing
