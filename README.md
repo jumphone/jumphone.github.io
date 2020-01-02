@@ -71,7 +71,7 @@ Zixiu Li#, Feng Zhang#, Yukai Wang, Yue Qiu, Yang Wu, Yulan Lu, Lin Yang, Willia
 
 <img src="https://github.com/jumphone/jumphone.github.io/blob/master/img/shandong_logo.jpg?raw=true" width="85">
 
-**BSc**, Information Security, School of Mathmatics, Shandong University, China, 2011-2015 
+**BSc**, School of Mathmatics, Shandong University, China, 2011-2015 
 
 ---------------------------------------
 
