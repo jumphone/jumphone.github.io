@@ -73,6 +73,10 @@ Zixiu Li#, Feng Zhang#, Yukai Wang, Yue Qiu, Yang Wu, Yulan Lu, Lin Yang, Willia
 
 **BSc**, School of Mathmatics, Shandong University, China, 2011-2015 
 
+<img src="https://github.com/jumphone/jumphone.github.io/blob/master/img/UCLA_logo.jpg?raw=true" width="85">
+
+**Summer School**, University of California, Los Angeles, USA, 2013
+
 ---------------------------------------
 
 # Contact:
