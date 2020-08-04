@@ -12,7 +12,7 @@
 Feng Zhang, Yu Wu, Weidong Tian*; A novel approach to remove the batch effect of single-cell data, Cell Discovery, 2019, [https://doi.org/10.1038/s41421-019-0114-x](https://doi.org/10.1038/s41421-019-0114-x)
 
 #### 2. Trajectory inference
-<img src="https://github.com/jumphone/BEER/raw/master/DATA/Vector_LOGO.png" width="110" >
+<img src="https://github.com/jumphone/BEER/raw/master/DATA/Vector_LOGO.png" width="130" >
 
 [https://github.com/jumphone/Vector](https://github.com/jumphone/Vector)
 
