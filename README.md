@@ -11,12 +11,12 @@
 
 Feng Zhang, Yu Wu, Weidong Tian*; A novel approach to remove the batch effect of single-cell data, Cell Discovery, 2019, [https://doi.org/10.1038/s41421-019-0114-x](https://doi.org/10.1038/s41421-019-0114-x)
 
-#### 2. Reference-based toolkit
-<img src="https://github.com/jumphone/jumphone.github.io/blob/master/img/scref_logo.png?raw=true" width="110" >
+#### 2. Trajectory inference
+<img src="https://github.com/jumphone/BEER/raw/master/DATA/Vector_LOGO.png" width="110" >
 
-[https://github.com/jumphone/scRef](https://github.com/jumphone/scRef)
+[https://github.com/jumphone/Vector](https://github.com/jumphone/Vector)
 
-Feng Zhang, Ying Peng, Yaguang Dou, Rohit R Rao, Q. Richard Lu, Weidong Tian*; SCREF: a reference-based solution for single-cell analysis, 2019 (in review)
+Feng Zhang, Xiaoying Li, Weidong Tian*; Unsupervised Inference of Developmental Directions for Single Cells Using VECTOR, Cell Reports, 2020 (accept)
 
 ---------------------------------------
 
