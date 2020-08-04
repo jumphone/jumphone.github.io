@@ -61,11 +61,11 @@ Zixiu Li#, Feng Zhang#, Yukai Wang, Yue Qiu, Yang Wu, Yulan Lu, Lin Yang, Willia
 # Education & Experience:
 <img src="https://github.com/jumphone/jumphone.github.io/blob/master/img/cchmc_logo.jpeg?raw=true" width="200">
 
-**Graduate Assistant & Visiting Scholar**, Cincinnati Children's Hospital Medical Center, USA, 2018-Present
+**Graduate Assistant & Visiting Scholar**, Cincinnati Children's Hospital Medical Center, USA, 2018-2020
 
 <img src="https://github.com/jumphone/jumphone.github.io/blob/master/img/fudan_logo.png?raw=true" width="80">
 
-**PhD**, Biostatistics, School of Life Sciences, Fudan University, China, 2015-Present
+**PhD**, Biostatistics, School of Life Sciences, Fudan University, China, 2015-2020
 
 **Teaching Asistant**, Biostatistics: Theories and Applications, Fudan University, China, 2015-2016
 
