@@ -4,7 +4,7 @@
 
 ## I. Single-cell analysis
 
-#### 1. Batch effect remover
+#### 1. Batch effect removal
 <img src="https://raw.githubusercontent.com/jumphone/BEER/master/DATA/BEER_LOGO.png?raw=true" width="120" height="120">
 
 [https://github.com/jumphone/BEER](https://github.com/jumphone/BEER)
