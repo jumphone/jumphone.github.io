@@ -56,6 +56,8 @@ Zixiu Li#, Feng Zhang#, Yukai Wang, Yue Qiu, Yang Wu, Yulan Lu, Lin Yang, Willia
 
 5.Single-Cell Transcriptomics in Medulloblastoma Reveals Tumor-Initiating Progenitors and Oncogenic Cascades during Tumorigenesis and Relapse, Cancer Cell, 2019, [https://doi.org/10.1016/j.ccell.2019.07.009](https://doi.org/10.1016/j.ccell.2019.07.009)
 
+6. CTCF-mediated chromatin looping in EGR2 regulation and SUZ12 recruitment critical for peripheral myelination and repair, Nature Communications, 2020, [https://doi.org/10.1038/s41467-020-17955-2](https://doi.org/10.1038/s41467-020-17955-2)
+
 ---------------------------------------
 
 # Education & Experience:
