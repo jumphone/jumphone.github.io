@@ -16,7 +16,7 @@ Feng Zhang, Yu Wu, Weidong Tian*; A novel approach to remove the batch effect of
 
 [https://github.com/jumphone/Vector](https://github.com/jumphone/Vector)
 
-Feng Zhang, Xiaoying Li, Weidong Tian*; Unsupervised Inference of Developmental Directions for Single Cells Using VECTOR, **Cell Reports**, 2020 (accept, in press)
+Feng Zhang, Xiaoying Li, Weidong Tian*; Unsupervised Inference of Developmental Directions for Single Cells Using VECTOR, **Cell Reports**, 2020, [https://doi.org/10.1016/j.celrep.2020.108069](https://doi.org/10.1016/j.celrep.2020.108069)
 
 ---------------------------------------
 
