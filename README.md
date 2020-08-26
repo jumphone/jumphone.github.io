@@ -22,7 +22,7 @@ Feng Zhang, Xiaoying Li, Weidong Tian*; Unsupervised Inference of Developmental 
 
 ## II. RNA editing
 
-#### 1. RNA editing identification tool
+#### 1. RNA editing identification
 <img src="https://github.com/jumphone/SPRINT/blob/master/data/LOGO.png?raw=true" width="120" >
 
 [https://github.com/jumphone/SPRINT](https://github.com/jumphone/SPRINT)
@@ -33,7 +33,7 @@ Feng Zhang, Yulan Lu, Sijia Yan, Qinghe Xing, Weidong Tian*; SPRINT: an SNP-free
 
 ## III. Mendelian disease
 
-#### 1. Diagnosis tool
+#### 1. Diagnosis assistant system
 <img src="https://github.com/jumphone/jumphone.github.io/blob/master/img/phenopro_logo.png?raw=true" width="105" height="150">
 
 Zixiu Li#, Feng Zhang#, Yukai Wang, Yue Qiu, Yang Wu, Yulan Lu, Lin Yang, William J Qu, Huijun Wang, Wenhao Zhou\*, Weidong Tian*; PhenoPro: a novel toolkit for assisting in the diagnosis of Mendelian disease, **Bioinformatics**, 2019, [https://doi.org/10.1093/bioinformatics/btz100](https://doi.org/10.1093/bioinformatics/btz100)
