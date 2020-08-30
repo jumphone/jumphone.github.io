@@ -68,17 +68,17 @@ Zixiu Li#, Feng Zhang#, Yukai Wang, Yue Qiu, Yang Wu, Yulan Lu, Lin Yang, Willia
 
 <img src="https://github.com/jumphone/jumphone.github.io/blob/master/img/fudan_logo.png?raw=true" width="80">
 
-**PhD**, Biostatistics, School of Life Sciences, Fudan University, China, 2015-2020. Supervisor: Dr. Weidong Tian
-
 **Teaching Asistant**, Biostatistics: Theories and Applications, Fudan University, China, 2015-2016
 
-<img src="https://github.com/jumphone/jumphone.github.io/blob/master/img/shandong_logo.jpg?raw=true" width="85">
-
-**BSc**, School of Mathmatics, Shandong University, China, 2011-2015 
+**PhD**, Biostatistics, School of Life Sciences, Fudan University, China, 2015-2020. Supervisor: Dr. Weidong Tian
 
 <img src="https://github.com/jumphone/jumphone.github.io/blob/master/img/UCLA_logo.jpg?raw=true" width="80">
 
 **Summer School**, University of California, Los Angeles, USA, 2013. Introduction to Biostatistics (instructor: Gjertson, D.W. and Estes, J.P.)
+
+<img src="https://github.com/jumphone/jumphone.github.io/blob/master/img/shandong_logo.jpg?raw=true" width="85">
+
+**BSc**, School of Mathmatics, Shandong University, China, 2011-2015 
 
 ---------------------------------------
 
