@@ -58,7 +58,7 @@ Zixiu Li#, Feng Zhang#, Yukai Wang, Yue Qiu, Yang Wu, Yulan Lu, Lin Yang, Willia
 
 # Education & Experience
 
-<img src="https://github.com/jumphone/jumphone.github.io/blob/master/img/cchmc_logo.jpeg?raw=true" width="200">
+<img src="https://github.com/jumphone/jumphone.github.io/blob/master/img/cchmc_logo.png?raw=true" width="200">
 
 **Graduate Assistant & Visiting Scholar**, Cincinnati Children's Hospital Medical Center, USA, 2018-2020
 
