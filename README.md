@@ -1,4 +1,4 @@
-# Research Fields:
+# Research Profile
 
 ---------------------------------------
 
@@ -44,7 +44,7 @@ Zixiu Li#, Feng Zhang#, Yukai Wang, Yue Qiu, Yang Wu, Yulan Lu, Lin Yang, Willia
 
 ---------------------------------------
 
-# Collaborations:
+# Collaborations
 
 1.Genome-wide identification of regulatory sequences undergoing accelerated evolution in the human genome, **Molecular Biology and Evolution**, 2016, [https://doi.org/10.1093/molbev/msw128](https://doi.org/10.1093/molbev/msw128)
 
@@ -60,7 +60,7 @@ Zixiu Li#, Feng Zhang#, Yukai Wang, Yue Qiu, Yang Wu, Yulan Lu, Lin Yang, Willia
 
 ---------------------------------------
 
-# Education & Experience:
+# Education & Experience
 
 <img src="https://github.com/jumphone/jumphone.github.io/blob/master/img/cchmc_logo.jpeg?raw=true" width="200">
 
@@ -78,7 +78,7 @@ Zixiu Li#, Feng Zhang#, Yukai Wang, Yue Qiu, Yang Wu, Yulan Lu, Lin Yang, Willia
 
 <img src="https://github.com/jumphone/jumphone.github.io/blob/master/img/UCLA_logo.jpg?raw=true" width="80">
 
-**Summer School**, University of California, Los Angeles, USA, 2013
+**Summer School**, University of California, Los Angeles, USA, 2013. Introduction to Biostatistics (instructor: Gjertson, D.W. and Estes, J.P.)
 
 ---------------------------------------
 
