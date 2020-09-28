@@ -84,8 +84,6 @@ Zixiu Li#, Feng Zhang#, Yukai Wang, Yue Qiu, Yang Wu, Yulan Lu, Lin Yang, Willia
 
 # Contact
 
-<img src="https://github.com/jumphone/jumphone.github.io/blob/master/img/panda_happy_logo.png?raw=true" width="120">
-
 fzhang15_at_fudan.edu.cn
 
 15110700005_at_fudan.edu.cn
