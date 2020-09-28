@@ -58,8 +58,8 @@ Zixiu Li#, Feng Zhang#, Yukai Wang, Yue Qiu, Yang Wu, Yulan Lu, Lin Yang, Willia
 
 # Education & Experience
 
-<img src="https://github.com/jumphone/jumphone.github.io/blob/master/img/jiaotong_logo.png?raw=true" width="200">
-<img src="https://github.com/jumphone/jumphone.github.io/blob/master/img/jiaotong_medicine_logo.png?raw=true" width="200">
+<img src="https://github.com/jumphone/jumphone.github.io/blob/master/img/jiaotong_logo.png?raw=true" width="80">
+<img src="https://github.com/jumphone/jumphone.github.io/blob/master/img/jiaotong_medicine_logo.jpg?raw=true" width="80">
 
 **Research Assistant Professor**, Shanghai Jiao Tong University School of Medicine, China, **2020-Present**
 
