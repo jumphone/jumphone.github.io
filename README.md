@@ -84,7 +84,6 @@ Zixiu Li#, Feng Zhang#, Yukai Wang, Yue Qiu, Yang Wu, Yulan Lu, Lin Yang, Willia
 
 # Contact
 
-fzhang15_at_fudan.edu.cn
+fzhang_at_shsmu.edu.cn
 
-15110700005_at_fudan.edu.cn
 
