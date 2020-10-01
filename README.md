@@ -60,7 +60,7 @@ Zixiu Li#, Feng Zhang#, Yukai Wang, Yue Qiu, Yang Wu, Yulan Lu, Lin Yang, Willia
 
 <img src="https://github.com/jumphone/jumphone.github.io/blob/master/img/jiaotong_logo.png?raw=true" width="170">
 
-**Research Assistant Professor**, Shanghai Jiao Tong University School of Medicine, China, **2020-Present**
+**Research Assistant Professor**, Department of Histoembryology, Genetics and Developmental Biology, Shanghai Jiao Tong University School of Medicine, China, **2020-Present**
 
 <img src="https://github.com/jumphone/jumphone.github.io/blob/master/img/cchmc_logo.png?raw=true" width="200">
 
