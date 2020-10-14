@@ -37,25 +37,25 @@
 
 ## Experience & Education
 
-<img src="https://github.com/jumphone/jumphone.github.io/blob/master/img/jiaotong_logo.png?raw=true" width="170">
+<img src="https://jumphone.github.io/img/jiaotong_logo.png" width="170">
 
 * **Research Assistant Professor**, Department of Histoembryology, Genetics and Developmental Biology, Shanghai Jiao Tong University School of Medicine, China, **2020-Present**
 
-<img src="https://github.com/jumphone/jumphone.github.io/blob/master/img/cchmc_logo.png?raw=true" width="200">
+<img src="https://jumphone.github.io/img/cchmc_logo.png" width="200">
 
 * **Graduate Assistant & Visiting Scholar**, Cincinnati Children's Hospital Medical Center, USA, **2018-2020**
 
-<img src="https://github.com/jumphone/jumphone.github.io/blob/master/img/fudan_logo.png?raw=true" width="80">
+<img src="https://jumphone.github.io/img/fudan_logo.png" width="80">
 
 * **Teaching Asistant**, Biostatistics: Theories and Applications, Fudan University, China, **2015-2016**
 
 * **PhD**, Biostatistics, School of Life Sciences, Fudan University, China, **2015-2020**. Supervisor: Dr. Weidong Tian
 
-<img src="https://github.com/jumphone/jumphone.github.io/blob/master/img/UCLA_logo.jpg?raw=true" width="80">
+<img src="https://jumphone.github.io/img/UCLA_logo.jpg" width="80">
 
 * **Summer School**, University of California, Los Angeles, USA, **2013**. Introduction to Biostatistics (instructor: Gjertson, D.W. and Estes, J.P.)
 
-<img src="https://github.com/jumphone/jumphone.github.io/blob/master/img/shandong_logo.jpg?raw=true" width="85">
+<img src="https://jumphone.github.io/img/shandong_logo.jpg" width="85">
 
 * **BSc**, School of Mathmatics, Shandong University, China, **2011-2015** 
 
