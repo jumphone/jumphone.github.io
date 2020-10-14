@@ -4,7 +4,7 @@
 
 ## Bioinformatics
 
-<img src="https://jumphone.github.io/img/bioinfo_logo.png" width="300" height="50">
+<img src="https://jumphone.github.io/img/bioinfo_logo.png" width="250" height="50">
 
 ### I. Single-cell analysis
 
@@ -24,7 +24,7 @@
 
 ## Collaborations
 
-<img src="https://jumphone.github.io/img/colla_logo.png" width="200">
+<img src="https://jumphone.github.io/img/colla_logo.png" width="250" height="50">
 
 * CTCF-mediated chromatin looping in EGR2 regulation and SUZ12 recruitment critical for peripheral myelination and repair, **Nature Communications, 2020**, [paper](https://doi.org/10.1038/s41467-020-17955-2)
 
