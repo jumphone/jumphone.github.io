@@ -68,6 +68,8 @@
 
 ## Contact
 
+<img src="https://jumphone.github.io/img/email_logo.png" width="55">
+
 * **fzhang@shsmu.edu.cn**
 
 * **fzhang20@sjtu.edu.cn**
