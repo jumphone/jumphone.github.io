@@ -7,16 +7,12 @@
 #### 1. Batch effect removal
 <img src="https://raw.githubusercontent.com/jumphone/BEER/master/DATA/BEER_LOGO.png?raw=true" width="120" height="120">
 
-[https://github.com/jumphone/BEER](https://github.com/jumphone/BEER)
-
-Feng Zhang, Yu Wu, Weidong Tian*; A novel approach to remove the batch effect of single-cell data, **Cell Discovery**, **2019**, [https://doi.org/10.1038/s41421-019-0114-x](https://doi.org/10.1038/s41421-019-0114-x)
+[code](https://github.com/jumphone/BEER), Feng Zhang, et al., **Cell Discovery**, **2019**, [paper](https://doi.org/10.1038/s41421-019-0114-x)
 
 #### 2. Trajectory inference
 <img src="https://github.com/jumphone/BEER/raw/master/DATA/Vector_LOGO.png" width="130" >
 
-[https://github.com/jumphone/Vector](https://github.com/jumphone/Vector)
-
-Feng Zhang, Xiaoying Li, Weidong Tian*; Unsupervised Inference of Developmental Directions for Single Cells Using VECTOR, **Cell Reports**, **2020**, [https://doi.org/10.1016/j.celrep.2020.108069](https://doi.org/10.1016/j.celrep.2020.108069)
+[code](https://github.com/jumphone/Vector), Feng Zhang, et al., **Cell Reports**, **2020**, [paper](https://doi.org/10.1016/j.celrep.2020.108069)
 
 ---------------------------------------
 
@@ -25,9 +21,7 @@ Feng Zhang, Xiaoying Li, Weidong Tian*; Unsupervised Inference of Developmental 
 #### 1. RNA editing identification
 <img src="https://github.com/jumphone/SPRINT/blob/master/data/LOGO.png?raw=true" width="120" >
 
-[https://github.com/jumphone/SPRINT](https://github.com/jumphone/SPRINT)
-
-Feng Zhang, Yulan Lu, Sijia Yan, Qinghe Xing, Weidong Tian*; SPRINT: an SNP-free toolkit for identifying RNA editing sites, **Bioinformatics**, **2017**, [https://doi.org/10.1093/bioinformatics/btx473](https://doi.org/10.1093/bioinformatics/btx473)
+[code](https://github.com/jumphone/SPRINT), Feng Zhang, et al., **Bioinformatics**, **2017**, [paper](https://doi.org/10.1093/bioinformatics/btx473)
 
 ---------------------------------------
 
@@ -36,7 +30,7 @@ Feng Zhang, Yulan Lu, Sijia Yan, Qinghe Xing, Weidong Tian*; SPRINT: an SNP-free
 #### 1. Diagnosis assistant system
 <img src="https://github.com/jumphone/jumphone.github.io/blob/master/img/phenopro_logo.png?raw=true" width="105" height="150">
 
-Zixiu Li#, Feng Zhang#, Yukai Wang, Yue Qiu, Yang Wu, Yulan Lu, Lin Yang, William J Qu, Huijun Wang, Wenhao Zhou\*, Weidong Tian*; PhenoPro: a novel toolkit for assisting in the diagnosis of Mendelian disease, **Bioinformatics**, **2019**, [https://doi.org/10.1093/bioinformatics/btz100](https://doi.org/10.1093/bioinformatics/btz100)
+Zixiu Li#, Feng Zhang#, et al., **Bioinformatics**, **2019**, [paper](https://doi.org/10.1093/bioinformatics/btz100)
 
 ---------------------------------------
 
