@@ -50,17 +50,17 @@
 
 * **Graduate Assistant & Visiting Scholar**, Cincinnati Children's Hospital Medical Center, USA, **2018-2020**
 
-<img src="https://jumphone.github.io/img/fudan_logo.png" width="40">
+<img src="https://jumphone.github.io/img/fudan_logo.png" width="60">
 
 * **Teaching Asistant**, Biostatistics: Theories and Applications, Fudan University, China, **2015-2016**
 
 * **PhD**, Biostatistics, School of Life Sciences, Fudan University, China, **2015-2020**. Supervisor: Dr. Weidong Tian
 
-<img src="https://jumphone.github.io/img/UCLA_logo.jpg" width="35">
+<img src="https://jumphone.github.io/img/UCLA_logo.jpg" width="55">
 
 * **Summer School**, University of California, Los Angeles, USA, **2013**. Introduction to Biostatistics (instructor: Gjertson, D.W. and Estes, J.P.)
 
-<img src="https://jumphone.github.io/img/shandong_logo.jpg" width="45">
+<img src="https://jumphone.github.io/img/shandong_logo.jpg" width="55">
 
 * **BSc**, School of Mathmatics, Shandong University, China, **2011-2015** 
 
