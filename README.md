@@ -6,7 +6,7 @@
 
 #### 1. Batch effect removal
 
-**BEER (2019)**: [code](https://github.com/jumphone/BEER), [paper](https://doi.org/10.1038/s41421-019-0114-x)
+**BEER (2019)**{[code](https://github.com/jumphone/BEER), [paper](https://doi.org/10.1038/s41421-019-0114-x)}
 
 #### 2. Trajectory inference
 
