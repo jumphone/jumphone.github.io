@@ -7,12 +7,12 @@
 #### 1. Batch effect removal
 <img src="https://raw.githubusercontent.com/jumphone/BEER/master/DATA/BEER_LOGO.png?raw=true" width="120" height="120">
 
-[Github](https://github.com/jumphone/BEER)    [Cell Discovery (2019)](https://doi.org/10.1038/s41421-019-0114-x)
+[Github](https://github.com/jumphone/BEER)    |    [Cell Discovery (2019)](https://doi.org/10.1038/s41421-019-0114-x)
 
 #### 2. Trajectory inference
 <img src="https://github.com/jumphone/BEER/raw/master/DATA/Vector_LOGO.png" width="130" >
 
-[Github](https://github.com/jumphone/Vector)    [Cell Reports (2020)](https://doi.org/10.1016/j.celrep.2020.108069)
+[Github](https://github.com/jumphone/Vector)    |    [Cell Reports (2020)](https://doi.org/10.1016/j.celrep.2020.108069)
 
 ---------------------------------------
 
@@ -21,7 +21,7 @@
 #### 1. RNA editing identification
 <img src="https://github.com/jumphone/SPRINT/blob/master/data/LOGO.png?raw=true" width="120" >
 
-[Github](https://github.com/jumphone/SPRINT)    [Bioinformatics (2017)](https://doi.org/10.1093/bioinformatics/btx473)
+[Github](https://github.com/jumphone/SPRINT)    |    [Bioinformatics (2017)](https://doi.org/10.1093/bioinformatics/btx473)
 
 ---------------------------------------
 
@@ -30,7 +30,7 @@
 #### 1. Diagnosis assistant
 <img src="https://github.com/jumphone/jumphone.github.io/blob/master/img/phenopro_logo.png?raw=true" width="105" height="150">
 
-[Github](https://github.com/jumphone/PhenoPro)    [Bioinformatics (2019)](https://doi.org/10.1093/bioinformatics/btz100)
+[Github](https://github.com/jumphone/PhenoPro)    |    [Bioinformatics (2019)](https://doi.org/10.1093/bioinformatics/btz100)
 
 ---------------------------------------
 
