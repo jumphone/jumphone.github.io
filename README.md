@@ -1,6 +1,9 @@
 # Research Profile
 
 ---------------------------------------
+
+<img src="https://jumphone.github.io/img/bioinfo_logo.png" width="200">
+
 ## Bioinformatics
 
 ### I. Single-cell analysis
@@ -18,6 +21,8 @@
 * PhenoPro: a novel toolkit for assisting in the diagnosis of Mendelian disease, **Bioinformatics, 2019**, {[code](https://github.com/jumphone/PhenoPro), [paper](https://doi.org/10.1093/bioinformatics/btz100)}
 
 ---------------------------------------
+
+<img src="https://jumphone.github.io/img/colla_logo.png" width="200">
 
 ## Collaborations
 
