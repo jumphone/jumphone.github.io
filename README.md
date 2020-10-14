@@ -22,6 +22,22 @@
 
 ---------------------------------------
 
+# Collaborations
+
+1.Genome-wide identification of regulatory sequences undergoing accelerated evolution in the human genome, **Molecular Biology and Evolution**, **2016**, [https://doi.org/10.1093/molbev/msw128](https://doi.org/10.1093/molbev/msw128)
+
+2.Dual requirement of CHD8 for chromatin landscape establishment and histone methyltransferase recruitment to promote CNS myelination and repair, **Developmental Cell**, **2018**, [https://doi.org/10.1016/j.devcel.2018.05.022](https://doi.org/10.1016/j.devcel.2018.05.022)
+
+3.Single-cell Transcriptomics Uncovers Glial Progenitor Diversity and Cell Fate Determinants during Development and Gliomagenesis, **Cell Stem Cell**, **2019**, [https://doi.org/10.1016/j.stem.2019.03.006](https://doi.org/10.1016/j.stem.2019.03.006)
+
+4.The CAFA challenge reports improved protein function prediction and new functional annotations for hundreds of genes through experimental screens, **Genome Biology**, **2019**, [https://doi.org/10.1186/s13059-019-1835-8](https://doi.org/10.1186/s13059-019-1835-8)
+
+5.Single-Cell Transcriptomics in Medulloblastoma Reveals Tumor-Initiating Progenitors and Oncogenic Cascades during Tumorigenesis and Relapse, **Cancer Cell**, **2019**, [https://doi.org/10.1016/j.ccell.2019.07.009](https://doi.org/10.1016/j.ccell.2019.07.009)
+
+6.CTCF-mediated chromatin looping in EGR2 regulation and SUZ12 recruitment critical for peripheral myelination and repair, **Nature Communications**, **2020**, [https://doi.org/10.1038/s41467-020-17955-2](https://doi.org/10.1038/s41467-020-17955-2)
+
+---------------------------------------
+
 # Experience & Education
 
 <img src="https://github.com/jumphone/jumphone.github.io/blob/master/img/jiaotong_logo.png?raw=true" width="170">
@@ -45,22 +61,6 @@
 <img src="https://github.com/jumphone/jumphone.github.io/blob/master/img/shandong_logo.jpg?raw=true" width="85">
 
 **BSc**, School of Mathmatics, Shandong University, China, **2011-2015** 
-
----------------------------------------
-
-# Collaborations
-
-1.Genome-wide identification of regulatory sequences undergoing accelerated evolution in the human genome, **Molecular Biology and Evolution**, **2016**, [https://doi.org/10.1093/molbev/msw128](https://doi.org/10.1093/molbev/msw128)
-
-2.Dual requirement of CHD8 for chromatin landscape establishment and histone methyltransferase recruitment to promote CNS myelination and repair, **Developmental Cell**, **2018**, [https://doi.org/10.1016/j.devcel.2018.05.022](https://doi.org/10.1016/j.devcel.2018.05.022)
-
-3.Single-cell Transcriptomics Uncovers Glial Progenitor Diversity and Cell Fate Determinants during Development and Gliomagenesis, **Cell Stem Cell**, **2019**, [https://doi.org/10.1016/j.stem.2019.03.006](https://doi.org/10.1016/j.stem.2019.03.006)
-
-4.The CAFA challenge reports improved protein function prediction and new functional annotations for hundreds of genes through experimental screens, **Genome Biology**, **2019**, [https://doi.org/10.1186/s13059-019-1835-8](https://doi.org/10.1186/s13059-019-1835-8)
-
-5.Single-Cell Transcriptomics in Medulloblastoma Reveals Tumor-Initiating Progenitors and Oncogenic Cascades during Tumorigenesis and Relapse, **Cancer Cell**, **2019**, [https://doi.org/10.1016/j.ccell.2019.07.009](https://doi.org/10.1016/j.ccell.2019.07.009)
-
-6.CTCF-mediated chromatin looping in EGR2 regulation and SUZ12 recruitment critical for peripheral myelination and repair, **Nature Communications**, **2020**, [https://doi.org/10.1038/s41467-020-17955-2](https://doi.org/10.1038/s41467-020-17955-2)
 
 ---------------------------------------
 
