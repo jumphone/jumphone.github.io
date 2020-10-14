@@ -60,7 +60,7 @@
 
 * **Summer School**, University of California, Los Angeles, USA, **2013**. Introduction to Biostatistics (instructor: Gjertson, D.W. and Estes, J.P.)
 
-<img src="https://jumphone.github.io/img/shandong_logo.jpg" width="55">
+<img src="https://jumphone.github.io/img/shandong_logo.jpg" width="60">
 
 * **BSc**, School of Mathmatics, Shandong University, China, **2011-2015** 
 
