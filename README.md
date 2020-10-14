@@ -19,7 +19,7 @@
 
 ---------------------------------------
 
-## Collaboration
+## Collaborations
 
 * CTCF-mediated chromatin looping in EGR2 regulation and SUZ12 recruitment critical for peripheral myelination and repair, **Nature Communications, 2020**, [paper](https://doi.org/10.1038/s41467-020-17955-2)
 
