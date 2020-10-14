@@ -6,7 +6,7 @@
 
 #### 1. Batch effect removal
 
->[BEER](https://github.com/jumphone/BEER) >>[Cell Discovery (2019)](https://doi.org/10.1038/s41421-019-0114-x)
+[BEER](https://github.com/jumphone/BEER), [Cell Discovery (2019)](https://doi.org/10.1038/s41421-019-0114-x)
 
 #### 2. Trajectory inference
 
