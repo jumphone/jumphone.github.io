@@ -56,7 +56,7 @@
 
 * **PhD**, Biostatistics, School of Life Sciences, Fudan University, China, **2015-2020**. Supervisor: Dr. Weidong Tian
 
-<img src="https://jumphone.github.io/img/UCLA_logo.jpg" width="40">
+<img src="https://jumphone.github.io/img/UCLA_logo.jpg" width="35">
 
 * **Summer School**, University of California, Los Angeles, USA, **2013**. Introduction to Biostatistics (instructor: Gjertson, D.W. and Estes, J.P.)
 
