@@ -4,29 +4,21 @@
 
 ## I. Single-cell analysis
 
-#### 1. Batch effect removal
+**BEER (2019)** {[code](https://github.com/jumphone/BEER), [paper](https://doi.org/10.1038/s41421-019-0114-x)}, batch effect removal
 
-**BEER (2019)** {[code](https://github.com/jumphone/BEER), [paper](https://doi.org/10.1038/s41421-019-0114-x)}
-
-#### 2. Trajectory inference
-
-**VECTROR (2020)** {[code](https://github.com/jumphone/Vector), [paper](https://doi.org/10.1016/j.celrep.2020.108069)}
+**VECTROR (2020)** {[code](https://github.com/jumphone/Vector), [paper](https://doi.org/10.1016/j.celrep.2020.108069)}, starting cell prediction, trajectory inference
 
 ---------------------------------------
 
 ## II. RNA editing
 
-#### 1. RNA editing identification
-
-**SPRINT (2017)** {[code](https://github.com/jumphone/SPRINT), [paper](https://doi.org/10.1093/bioinformatics/btx473)}
+**SPRINT (2017)** {[code](https://github.com/jumphone/SPRINT), [paper](https://doi.org/10.1093/bioinformatics/btx473)}, SNP-free RNA editing sites identification 
 
 ---------------------------------------
 
 ## III. Mendelian disease
 
-#### 1. Mendelian disease diagnosis
-
-**PhenoPro (2019)** {[code](https://github.com/jumphone/PhenoPro), [paper](https://doi.org/10.1093/bioinformatics/btz100)}
+**PhenoPro (2019)** {[code](https://github.com/jumphone/PhenoPro), [paper](https://doi.org/10.1093/bioinformatics/btz100)}, Mendelian disease diagnosis
 
 ---------------------------------------
 
