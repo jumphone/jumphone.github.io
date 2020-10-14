@@ -6,11 +6,11 @@
 
 #### 1. Batch effect removal
 
-[BEER](https://github.com/jumphone/BEER), [Cell Discovery, 2019](https://doi.org/10.1038/s41421-019-0114-x)
+[BEER](https://github.com/jumphone/BEER), [Cell Discovery (2019)](https://doi.org/10.1038/s41421-019-0114-x)
 
 #### 2. Trajectory inference
 
-[VECTROR](https://github.com/jumphone/Vector), [Cell Reports, 2020](https://doi.org/10.1016/j.celrep.2020.108069)
+[VECTROR](https://github.com/jumphone/Vector), [Cell Reports (2020)](https://doi.org/10.1016/j.celrep.2020.108069)
 
 ---------------------------------------
 
@@ -18,7 +18,7 @@
 
 #### 1. RNA editing identification
 
-[SPRINT](https://github.com/jumphone/SPRINT), [Bioinformatics, 2017](https://doi.org/10.1093/bioinformatics/btx473)
+[SPRINT](https://github.com/jumphone/SPRINT), [Bioinformatics (2017)](https://doi.org/10.1093/bioinformatics/btx473)
 
 ---------------------------------------
 
@@ -26,7 +26,7 @@
 
 #### 1. Mendelian disease diagnosis
 
-[PhenoPro](https://github.com/jumphone/PhenoPro), [Bioinformatics, 2019](https://doi.org/10.1093/bioinformatics/btz100)
+[PhenoPro](https://github.com/jumphone/PhenoPro), [Bioinformatics (2019)](https://doi.org/10.1093/bioinformatics/btz100)
 
 ---------------------------------------
 
