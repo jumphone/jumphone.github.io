@@ -1,6 +1,7 @@
 # Research Profile
 
 ---------------------------------------
+## Software
 
 ### I. Single-cell analysis
 
@@ -18,7 +19,7 @@
 
 ---------------------------------------
 
-# Collaborations
+## Collaborations
 
 * CTCF-mediated chromatin looping in EGR2 regulation and SUZ12 recruitment critical for peripheral myelination and repair, **Nature Communications, 2020**, [paper](https://doi.org/10.1038/s41467-020-17955-2)
 
@@ -34,7 +35,7 @@
 
 ---------------------------------------
 
-# Experience & Education
+## Experience & Education
 
 <img src="https://github.com/jumphone/jumphone.github.io/blob/master/img/jiaotong_logo.png?raw=true" width="170">
 
@@ -60,7 +61,7 @@
 
 ---------------------------------------
 
-# Contact
+## Contact
 
 * **fzhang@shsmu.edu.cn**
 
