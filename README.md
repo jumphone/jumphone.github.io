@@ -1,7 +1,7 @@
 # Research Profile
 
 ---------------------------------------
-## Software
+## Bioinformatics
 
 ### I. Single-cell analysis
 
