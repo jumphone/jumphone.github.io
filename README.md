@@ -6,7 +6,7 @@
 
 <img src="https://jumphone.github.io/img/bioinfo_logo.png" width="200" height="50">
 
-1. **Single-cell analysis**
+**1. Single-cell analysis**
 
 * Unsupervised Inference of Developmental Directions for Single Cells Using VECTOR, **Cell Reports, 2020**, {[code](https://github.com/jumphone/Vector), [paper](https://doi.org/10.1016/j.celrep.2020.108069)}
 
