@@ -4,7 +4,7 @@
 
 ## Bioinformatics
 
-<img src="https://jumphone.github.io/img/bioinfo_logo.png" width="200">
+<img src="https://jumphone.github.io/img/bioinfo_logo.png" width="300" height="50">
 
 ### I. Single-cell analysis
 
