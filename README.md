@@ -14,9 +14,13 @@
 
 * A novel approach to remove the batch effect of single-cell data, **Cell Discovery, 2019**, {[code](https://github.com/jumphone/BEER), [paper](https://doi.org/10.1038/s41421-019-0114-x)}
 
+<br>
+
 * ***RNA-seq Analysis***
 
 * SPRINT: an SNP-free toolkit for identifying RNA editing sites, **Bioinformatics, 2017**, {[code](https://github.com/jumphone/SPRINT), [paper](https://doi.org/10.1093/bioinformatics/btx473)} 
+
+<br>
 
 * ***Phenotype & Genotype***
 
