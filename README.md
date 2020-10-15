@@ -48,7 +48,7 @@
 
 ---------------------------------------
 
-<img src="https://jumphone.github.io/img/jiaotong_logo.png" width="120">
+<img src="https://jumphone.github.io/img/jiaotong_logo.png" width="200">
 
 * **Research Assistant Professor**, Department of Histoembryology, Genetics and Developmental Biology, Shanghai Jiao Tong University School of Medicine, China, **2020-present**
 
