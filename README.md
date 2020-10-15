@@ -2,6 +2,10 @@
 
 ---------------------------------------
 
+[English](https://jumphont.github.io), [中文](https://jumphont.github.io/cn)
+
+---------------------------------------
+
 ## Bioinformatics
 
 <img src="https://jumphone.github.io/img/bioinfo_logo.png" width="200" height="50">
