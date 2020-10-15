@@ -8,17 +8,17 @@
 
 <img src="https://jumphone.github.io/img/bioinfo_logo.png" width="200" height="50">
 
-* ***Single-cell Analysis***
+* **Single-cell Analysis**
 
   * Unsupervised Inference of Developmental Directions for Single Cells Using VECTOR, **Cell Reports, 2020**, {[code](https://github.com/jumphone/Vector), [paper](https://doi.org/10.1016/j.celrep.2020.108069)}
 
   * A novel approach to remove the batch effect of single-cell data, **Cell Discovery, 2019**, {[code](https://github.com/jumphone/BEER), [paper](https://doi.org/10.1038/s41421-019-0114-x)}
 
-* ***RNA-seq Analysis***
+* **RNA-seq Analysis**
 
   * SPRINT: an SNP-free toolkit for identifying RNA editing sites, **Bioinformatics, 2017**, {[code](https://github.com/jumphone/SPRINT), [paper](https://doi.org/10.1093/bioinformatics/btx473)} 
 
-* ***Phenotype & Genotype***
+* **Phenotype & Genotype**
 
   * PhenoPro: a novel toolkit for assisting in the diagnosis of Mendelian disease, **Bioinformatics, 2019**, {[code](https://github.com/jumphone/PhenoPro), [paper](https://doi.org/10.1093/bioinformatics/btz100)}
 
@@ -30,7 +30,7 @@
 
 <img src="https://jumphone.github.io/img/colla_logo.png" width="200" height="50">
 
-* Cincinnati Children's Hospital Medical Center
+* **Cincinnati Children's Hospital Medical Center**
 
   * CTCF-mediated chromatin looping in EGR2 regulation and SUZ12 recruitment critical for peripheral myelination and repair, **Nature Communications, 2020**, [paper](https://doi.org/10.1038/s41467-020-17955-2)
 
@@ -40,7 +40,7 @@
 
   * Dual requirement of CHD8 for chromatin landscape establishment and histone methyltransferase recruitment to promote CNS myelination and repair, **Developmental Cell, 2018**, [paper](https://doi.org/10.1016/j.devcel.2018.05.022)
 
-* Fudan University - Tianlab
+* **Fudan University - Tianlab**
 
   * The CAFA challenge reports improved protein function prediction and new functional annotations for hundreds of genes through experimental screens, **Genome Biology, 2019**, [paper](https://doi.org/10.1186/s13059-019-1835-8)
 
