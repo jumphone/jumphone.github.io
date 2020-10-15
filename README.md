@@ -1,10 +1,6 @@
 # HomePage
 
----------------------------------------
-
 [English](http://fzhang.bioinfo-lab.com) | [中文](http://fzhang.bioinfo-lab.com/cn)
-
----------------------------------------
 
 ## ■ Research Profile
 
