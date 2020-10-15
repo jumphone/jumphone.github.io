@@ -6,7 +6,7 @@
 
 ---------------------------------------
 
-<img src="https://jumphone.github.io/img/bioinfo_logo.png" width="200">
+<img src="https://jumphone.github.io/img/bioinfo_logo.png" width="250">
 
 * **Single-cell Analysis**
 
