@@ -6,7 +6,7 @@
 
 ---------------------------------------
 
-## Bioinformatics
+> **Bioinformatics**
 
 <img src="https://jumphone.github.io/img/bioinfo_logo.png" width="200" height="50">
 
@@ -26,7 +26,7 @@
 
 ---------------------------------------
 
-## Collaborations
+> **Collaborations**
 
 <img src="https://jumphone.github.io/img/colla_logo.png" width="200" height="50">
 
