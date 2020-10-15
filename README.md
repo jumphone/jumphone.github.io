@@ -8,6 +8,8 @@
 
 # Research Profile
 
+---------------------------------------
+
 ## Bioinformatics
 
 <img src="https://jumphone.github.io/img/bioinfo_logo.png" width="200" height="50">
@@ -48,6 +50,8 @@
 
 # Experience & Education
 
+---------------------------------------
+
 <img src="https://jumphone.github.io/img/jiaotong_logo.png" width="120">
 
 * **Research Assistant Professor**, Department of Histoembryology, Genetics and Developmental Biology, Shanghai Jiao Tong University School of Medicine, China, **2020-present**
@@ -73,6 +77,8 @@
 ---------------------------------------
 
 # Contact
+
+---------------------------------------
 
 <img src="https://jumphone.github.io/img/email_logo.png" width="200">
 
