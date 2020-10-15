@@ -2,7 +2,7 @@
 
 [English](http://fzhang.bioinfo-lab.com) | [中文](http://fzhang.bioinfo-lab.com/cn)
 
-## ■ Research Profile
+## ▼ Research Profile
 
 ---------------------------------------
 
@@ -44,7 +44,7 @@
 
 ---------------------------------------
 
-## ■ Experience & Education
+## ▼ Experience & Education
 
 ---------------------------------------
 
@@ -72,7 +72,7 @@
 
 ---------------------------------------
 
-## ■ Contact
+## ▼ Contact
 
 ---------------------------------------
 
