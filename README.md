@@ -6,7 +6,7 @@
 
 ---------------------------------------
 
-## Bioinformatics
+## &nbsp;&nbsp;Bioinformatics
 
 <img src="https://jumphone.github.io/img/bioinfo_logo.png" width="200" height="50">
 
