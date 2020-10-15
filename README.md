@@ -2,7 +2,7 @@
 
 ---------------------------------------
 
-[English](https://jumphone.github.io) | [中文](https://jumphone.github.io/cn)
+[English](http://fzhang.bioinfo-lab.com) | [中文](http://fzhang.bioinfo-lab.com/cn)
 
 ---------------------------------------
 
