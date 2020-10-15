@@ -6,29 +6,29 @@
 
 ---------------------------------------
 
-## &nbsp;&nbsp;Bioinformatics
+## &nbsp;&nbsp;&nbsp;&nbsp;Bioinformatics
 
-<img src="https://jumphone.github.io/img/bioinfo_logo.png" width="200" height="50">
+&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://jumphone.github.io/img/bioinfo_logo.png" width="200" height="50">
 
-### Single-cell Analysis
+### &nbsp;&nbsp;&nbsp;&nbsp;Single-cell Analysis
 
 * Unsupervised Inference of Developmental Directions for Single Cells Using VECTOR, **Cell Reports, 2020**, {[code](https://github.com/jumphone/Vector), [paper](https://doi.org/10.1016/j.celrep.2020.108069)}
 
 * A novel approach to remove the batch effect of single-cell data, **Cell Discovery, 2019**, {[code](https://github.com/jumphone/BEER), [paper](https://doi.org/10.1038/s41421-019-0114-x)}
 
-### RNA-seq Analysis
+### &nbsp;&nbsp;&nbsp;&nbsp;RNA-seq Analysis
 
 * SPRINT: an SNP-free toolkit for identifying RNA editing sites, **Bioinformatics, 2017**, {[code](https://github.com/jumphone/SPRINT), [paper](https://doi.org/10.1093/bioinformatics/btx473)} 
 
-### Phenotype & Genotype
+### &nbsp;&nbsp;&nbsp;&nbsp;Phenotype & Genotype
 
 * PhenoPro: a novel toolkit for assisting in the diagnosis of Mendelian disease, **Bioinformatics, 2019**, {[code](https://github.com/jumphone/PhenoPro), [paper](https://doi.org/10.1093/bioinformatics/btz100)}
 
 ---------------------------------------
 
-## Collaborations
+## &nbsp;&nbsp;&nbsp;&nbsp;Collaborations
 
-<img src="https://jumphone.github.io/img/colla_logo.png" width="200" height="50">
+&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://jumphone.github.io/img/colla_logo.png" width="200" height="50">
 
 * CTCF-mediated chromatin looping in EGR2 regulation and SUZ12 recruitment critical for peripheral myelination and repair, **Nature Communications, 2020**, [paper](https://doi.org/10.1038/s41467-020-17955-2)
 
@@ -48,25 +48,25 @@
 
 ---------------------------------------
 
-<img src="https://jumphone.github.io/img/jiaotong_logo.png" width="120">
+&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://jumphone.github.io/img/jiaotong_logo.png" width="120">
 
 * **Research Assistant Professor**, Department of Histoembryology, Genetics and Developmental Biology, Shanghai Jiao Tong University School of Medicine, China, **2020-present**
 
-<img src="https://jumphone.github.io/img/cchmc_logo.png" width="150">
+&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://jumphone.github.io/img/cchmc_logo.png" width="150">
 
 * **Graduate Assistant & Visiting Scholar**, Cincinnati Children's Hospital Medical Center, USA, **2018-2020**
 
-<img src="https://jumphone.github.io/img/fudan_logo.png" width="60">
+&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://jumphone.github.io/img/fudan_logo.png" width="60">
 
 * **Teaching Asistant**, Biostatistics: Theories and Applications, Fudan University, China, **2015-2016**
 
 * **PhD**, Biostatistics, School of Life Sciences, Fudan University, China, **2015-2020**. Supervisor: Dr. Weidong Tian
 
-<img src="https://jumphone.github.io/img/UCLA_logo.jpg" width="50">
+&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://jumphone.github.io/img/UCLA_logo.jpg" width="50">
 
 * **Summer School**, University of California, Los Angeles, USA, **2013**. Introduction to Biostatistics (instructor: Gjertson, D.W. and Estes, J.P.)
 
-<img src="https://jumphone.github.io/img/shandong_logo.jpg" width="60">
+&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://jumphone.github.io/img/shandong_logo.jpg" width="60">
 
 * **BSc**, School of Mathmatics, Shandong University, China, **2011-2015** 
 
@@ -76,7 +76,7 @@
 
 ---------------------------------------
 
-<img src="https://jumphone.github.io/img/email_logo.png" width="200">
+&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://jumphone.github.io/img/email_logo.png" width="200">
 
 * **No.227 South Chong Qing Road, Shanghai, China, 200025**
 
