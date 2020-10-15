@@ -2,7 +2,7 @@
 
 [English](http://fzhang.bioinfo-lab.com) | [中文](http://fzhang.bioinfo-lab.com/cn)
 
-## ▸ Bioinfo researches
+## ▸ Bioinfo Studies
 
 ---------------------------------------
 
