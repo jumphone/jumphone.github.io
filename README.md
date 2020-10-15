@@ -44,7 +44,7 @@
 
 ---------------------------------------
 
-## Experience & Education
+# Experience & Education
 
 <img src="https://jumphone.github.io/img/jiaotong_logo.png" width="120">
 
@@ -70,7 +70,7 @@
 
 ---------------------------------------
 
-## Contact
+# Contact
 
 <img src="https://jumphone.github.io/img/email_logo.png" width="200">
 
