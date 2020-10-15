@@ -74,7 +74,7 @@
 
 <img src="https://jumphone.github.io/img/email_logo.png" width="200">
 
-* **No.227 Chong Qing Nan Lu, Shanghai, China, 200025**
+* **No.227 South Chong Qing Road, Shanghai, China, 200025**
 
 * **fzhang@shsmu.edu.cn**
 
