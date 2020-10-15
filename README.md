@@ -2,7 +2,7 @@
 
 ---------------------------------------
 
-[English](https://jumphont.github.io), [中文](https://jumphont.github.io/cn)
+[English](https://jumphone.github.io) | [中文](https://jumphone.github.io/cn)
 
 ---------------------------------------
 
