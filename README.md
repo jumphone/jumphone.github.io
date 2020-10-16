@@ -2,6 +2,8 @@
 
 [English](https://fzhang.bioinfo-lab.com) | [中文](https://fzhang.bioinfo-lab.com/cn)
 
+[Bioinfo Studies](/#-bioinfo-studies)
+
 ## ▸ Bioinfo Studies
 
 ---------------------------------------
