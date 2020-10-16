@@ -2,7 +2,7 @@
 
 ---------------------------------------
 
-<img src="https://jumphone.github.io/img/bioinfo_logo.png" width="250">
+<img src="https://fzhang.bioinfo-lab.com/img/bioinfo_logo.png" width="250">
 
 * **Single-cell Analysis**
 
@@ -26,7 +26,7 @@
 
 ---------------------------------------
 
-<img src="https://jumphone.github.io/img/colla_logo.png" width="200" height="50">
+<img src="https://fzhang.bioinfo-lab.com/img/colla_logo.png" width="200" height="50">
 
 * **Cincinnati Children's Hospital Medical Center**
 
@@ -50,7 +50,7 @@
 
 ---------------------------------------
 
-&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://jumphone.github.io/img/jiaotong_logo.png" width="150">
+&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://fzhang.bioinfo-lab.com/img/jiaotong_logo.png" width="150">
 
 * **Research Assistant Professor**, Department of Histoembryology, Genetics and Developmental Biology, Shanghai Jiao Tong University School of Medicine, China, **2020-present**
 
@@ -70,7 +70,7 @@
 
 ---------------------------------------
 
-&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://jumphone.github.io/img/email_logo.png" width="200">
+&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://fzhang.bioinfo-lab.com/img/email_logo.png" width="200">
 
 * **No.227 South Chong Qing Road, Shanghai, China, 200025**
 
