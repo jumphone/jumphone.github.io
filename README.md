@@ -1,6 +1,6 @@
 # HomePage
 
-[English](http://fzhang.bioinfo-lab.com) | [中文](http://fzhang.bioinfo-lab.com/cn)
+[English](https://fzhang.bioinfo-lab.com) | [中文](https://fzhang.bioinfo-lab.com/cn)
 
 ## ▸ Bioinfo Studies
 
