@@ -21,8 +21,8 @@
 [Github Profile](https://github.com/jumphone/)
 
 ---------------------------------------
-</br>
-</br>
+
+<img src="https://fzhang.bioinfo-lab.com/img/white.png" height="100">
 
 ## ▸ Collaborations
 
@@ -47,8 +47,8 @@
   * Genome-wide identification of regulatory sequences undergoing accelerated evolution in the human genome, **Molecular Biology and Evolution, 2016**, [paper](https://doi.org/10.1093/molbev/msw128)
 
 ---------------------------------------
-</br>
-</br>
+
+<img src="https://fzhang.bioinfo-lab.com/img/white.png" height="100">
 
 ## ▸ Experience & Education
 
@@ -69,8 +69,8 @@
 * **BSc**, School of Mathmatics, Shandong University, China, **2011-2015** 
 
 ---------------------------------------
-</br>
-</br>
+
+<img src="https://fzhang.bioinfo-lab.com/img/white.png" height="100">
 
 ## ▸ Contact
 
