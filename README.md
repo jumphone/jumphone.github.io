@@ -32,9 +32,9 @@
 
 * **Cincinnati Children's Hospital Medical Center**
 
- * Adaptive responses to mTOR gene targeting in hematopoietic stem cells reveal a proliferative mechanism evasive to mTOR inhibition, **PNAS, 2021**, [paper](https://www.pnas.org/content/118/1/e2020102118)
+  * Adaptive responses to mTOR gene targeting in hematopoietic stem cells reveal a proliferative mechanism evasive to mTOR inhibition, **PNAS, 2021**, [paper](https://www.pnas.org/content/118/1/e2020102118)
  
- * CTCF-mediated chromatin looping in EGR2 regulation and SUZ12 recruitment critical for peripheral myelination and repair, **Nature Communications, 2020**, [paper](https://doi.org/10.1038/s41467-020-17955-2)
+  * CTCF-mediated chromatin looping in EGR2 regulation and SUZ12 recruitment critical for peripheral myelination and repair, **Nature Communications, 2020**, [paper](https://doi.org/10.1038/s41467-020-17955-2)
 
   * Single-Cell Transcriptomics in Medulloblastoma Reveals Tumor-Initiating Progenitors and Oncogenic Cascades during Tumorigenesis and Relapse, **Cancer Cell, 2019**, [paper](https://doi.org/10.1016/j.ccell.2019.07.009)
 
