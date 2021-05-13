@@ -20,6 +20,8 @@
 
 [Github Profile](https://github.com/jumphone/)
 
+[Gitee Profile](https://gitee.com/jumphone)
+
 <img src="https://fzhang.bioinfo-lab.com/img/white.png" height="50">
 
 ---------------------------------------
