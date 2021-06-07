@@ -34,6 +34,11 @@
 
 <img src="https://fzhang.bioinfo-lab.com/img/colla_logo.png" width="200" height="50">
 
+* **Chinese Academy of Sciences**
+  
+  * Single-cell transcriptomic analysis reveals a hepatic stellate cell-activation roadmap and myofibroblast origin during liver fibrosis, **Hepatology, 2021**, [paper](https://doi.org/10.1002/hep.31987)
+
+
 * **Cincinnati Children's Hospital Medical Center**
 
   * OLIG2 maintenance is not essential for diffuse intrinsic pontine glioma cell line growth but regulates tumor phenotypes, **Neuro-Oncology, 2021**, [paper](https://doi.org/10.1093/neuonc/noab016)
@@ -47,6 +52,7 @@
   * Single-cell Transcriptomics Uncovers Glial Progenitor Diversity and Cell Fate Determinants during Development and Gliomagenesis, **Cell Stem Cell, 2019**, [paper](https://doi.org/10.1016/j.stem.2019.03.006)
 
   * Dual requirement of CHD8 for chromatin landscape establishment and histone methyltransferase recruitment to promote CNS myelination and repair, **Developmental Cell, 2018**, [paper](https://doi.org/10.1016/j.devcel.2018.05.022)
+
 
 * **Fudan University**
 
