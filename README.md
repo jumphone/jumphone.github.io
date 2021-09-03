@@ -76,7 +76,7 @@
 
 * **Teaching Asistant**, Biostatistics: Theories and Applications, Fudan University, China, **2015-2016**
 
-* **PhD**, Biostatistics, School of Life Sciences, Fudan University, China, **2015-2020**. Supervisor: Prof. Weidong Tian
+* **PhD**, Biostatistics, School of Life Sciences, Fudan University, China, **2015-2020**. Supervisor: [Prof. Weidong Tian](https://life.fudan.edu.cn/9f/60/c31283a368480/page.htm)
 
 * **Summer School**, University of California, Los Angeles, USA, **2013**. Introduction to Biostatistics (instructor: Gjertson, D.W. and Estes, J.P.)
 
