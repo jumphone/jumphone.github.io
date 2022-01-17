@@ -6,6 +6,8 @@
 
 * **Single-cell Analysis**
 
+  * scMAGIC: accurately annotating single cells using two rounds of reference-based classification, **NAR, 2022**, {[code](https://github.com/TianLab-Bioinfo/scMAGIC), [paper](https://doi.org/10.1093/nar/gkab1275)}
+  
   * Unsupervised Inference of Developmental Directions for Single Cells Using VECTOR, **Cell Reports, 2020**, {[code](https://github.com/jumphone/Vector), [paper](https://doi.org/10.1016/j.celrep.2020.108069)}
 
   * A novel approach to remove the batch effect of single-cell data, **Cell Discovery, 2019**, {[code](https://github.com/jumphone/BEER), [paper](https://doi.org/10.1038/s41421-019-0114-x)}
