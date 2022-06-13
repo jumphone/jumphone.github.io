@@ -74,7 +74,7 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;<img src="https://fzhang.bioinfo-lab.com/img/jiaotong_logo.png" width="150">
 
-* **Research Assistant Professor**, Department of Histoembryology, Genetics and Developmental Biology, Shanghai Jiao Tong University School of Medicine, China, **2020-present**
+* **Assistant Research Scientist**, Department of Histoembryology, Genetics and Developmental Biology, Shanghai Jiao Tong University School of Medicine, China, **2020-present**
 
 * **Graduate Assistant & Visiting Scholar**, Cincinnati Children's Hospital Medical Center, USA, **2018-2020**
 
