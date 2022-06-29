@@ -6,6 +6,8 @@
 
 * **Single-cell Analysis**
 
+   * FitDevo: accurate inference of single-cell developmental potential using sample-specific gene weight, **Briefings in Bioinformatics, 2022**, {[code](https://github.com/jumphone/FitDevo), in press}, first author
+
   * scMAGIC: accurately annotating single cells using two rounds of reference-based classification, **NAR, 2022**, {[code](https://github.com/TianLab-Bioinfo/scMAGIC), [paper](https://doi.org/10.1093/nar/gkab1275)}, co-first author
   
   * Unsupervised Inference of Developmental Directions for Single Cells Using VECTOR, **Cell Reports, 2020**, {[code](https://github.com/jumphone/Vector), [paper](https://doi.org/10.1016/j.celrep.2020.108069)}, first author
