@@ -12,7 +12,7 @@
 
 * **Single-cell & Integration**
 
-  * scMAGIC: accurately annotating single cells using two rounds of reference-based classification, **NAR, 2022**, {[code](https://github.com/TianLab-Bioinfo/scMAGIC), [paper](https://doi.org/10.1093/nar/gkab1275)}, co-first author
+  * scMAGIC: accurately annotating single cells using two rounds of reference-based classification, **Nucleic Acids Research, 2022**, {[code](https://github.com/TianLab-Bioinfo/scMAGIC), [paper](https://doi.org/10.1093/nar/gkab1275)}, co-first author
   
    * A novel approach to remove the batch effect of single-cell data, **Cell Discovery, 2019**, {[code](https://github.com/jumphone/BEER), [paper](https://doi.org/10.1038/s41421-019-0114-x)}, first author
    
@@ -45,7 +45,7 @@
 
   * OLIG2 maintenance is not essential for diffuse intrinsic pontine glioma cell line growth but regulates tumor phenotypes, **Neuro-Oncology, 2021**, [paper](https://doi.org/10.1093/neuonc/noab016)
 
-  * Adaptive responses to mTOR gene targeting in hematopoietic stem cells reveal a proliferative mechanism evasive to mTOR inhibition, **PNAS, 2021**, [paper](https://www.pnas.org/content/118/1/e2020102118)
+  * Adaptive responses to mTOR gene targeting in hematopoietic stem cells reveal a proliferative mechanism evasive to mTOR inhibition, **Proceedings of the National Academy of Sciences of the United States of America, 2021**, [paper](https://www.pnas.org/content/118/1/e2020102118)
  
   * CTCF-mediated chromatin looping in EGR2 regulation and SUZ12 recruitment critical for peripheral myelination and repair, **Nature Communications, 2020**, [paper](https://doi.org/10.1038/s41467-020-17955-2)
 
