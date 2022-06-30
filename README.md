@@ -74,7 +74,7 @@
 
 * **Assistant Research Scientist**, Department of Histoembryology, Genetics and Developmental Biology, Shanghai Jiao Tong University School of Medicine, China, **2020-present**
 
-* **Graduate Assistant & Visiting Scholar**, Cincinnati Children's Hospital Medical Center, USA, **2018-2020**
+* **Graduate Assistant & Visiting Scholar**, Cincinnati Children's Hospital Medical Center, USA, **2018-2020**. Collaborator: [Prof. Qing Richard Lu](https://www.cincinnatichildrens.org/bio/l/qing-richard-lu), [Prof. Yi Zheng](https://www.cincinnatichildrens.org/bio/z/yi-zheng)
 
 * **Teaching Asistant**, Biostatistics: Theories and Applications, Fudan University, China, **2015-2016**
 
