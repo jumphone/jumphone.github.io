@@ -74,13 +74,13 @@
 
 * **Assistant Research Scientist**, Department of Histoembryology, Genetics and Developmental Biology, Shanghai Jiao Tong University School of Medicine, China, **2020-present**
 
-* **Graduate Assistant & Visiting Scholar**, Cincinnati Children's Hospital Medical Center, USA, **2018-2020**. Collaborator: [Prof. Qing Richard Lu](https://www.cincinnatichildrens.org/bio/l/qing-richard-lu), [Prof. Yi Zheng](https://www.cincinnatichildrens.org/bio/z/yi-zheng)
+* **Graduate Assistant & Visiting Scholar**, Cincinnati Children's Hospital Medical Center, USA, **2018-2020**. Collaborator: [Prof. Qing Richard Lu](https://www.cincinnatichildrens.org/bio/l/qing-richard-lu) and [Prof. Yi Zheng](https://www.cincinnatichildrens.org/bio/z/yi-zheng)
 
 * **Teaching Asistant**, Biostatistics: Theories and Applications, Fudan University, China, **2015-2016**
 
 * **PhD**, Biostatistics, School of Life Sciences, Fudan University, China, **2015-2020**. Supervisor: [Prof. Weidong Tian](https://life.fudan.edu.cn/9f/60/c31283a368480/page.htm)
 
-* **Summer School**, University of California, Los Angeles, USA, **2013**. Introduction to Biostatistics (instructor: Gjertson, D.W. and Estes, J.P.)
+* **Summer School**, University of California, Los Angeles, USA, **2013**. Introduction to Biostatistics (instructor: [Prof. Gjertson, D.W.](https://ph.ucla.edu/faculty/gjertson))
 
 * **BSc**, School of Mathmatics, Shandong University, China, **2011-2015** 
 
