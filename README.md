@@ -4,12 +4,12 @@
 
 
 <p float="left">
-<a href="https://github.com/jumphone/FitDevo"><img src="https://gitee.com/jumphone/public/raw/master/img/logo.png" height="50"/></a>
-<img src="https://github.com/Drizzle-Zhang/scMAGIC/raw/main/figures/Logo.png" height="50">
-<img src="https://github.com/jumphone/BEER/raw/master/DATA/Vector_LOGO.png" height="50">
-<img src="https://github.com/jumphone/BEER/raw/master/DATA/BEER_LOGO.png" height="50">
-<img src="https://github.com/jumphone/PhenoPro/raw/master/IMG/LOGO.png" height="50">
-<img src="https://github.com/jumphone/SPRINT/raw/master/data/LOGO.png?raw=true" height="50">
+<img src="https://gitee.com/jumphone/public/raw/master/img/logo.png" height="80"/></a>
+<img src="https://github.com/Drizzle-Zhang/scMAGIC/raw/main/figures/Logo.png" height="80">
+<img src="https://github.com/jumphone/BEER/raw/master/DATA/Vector_LOGO.png" height="80">
+<img src="https://github.com/jumphone/BEER/raw/master/DATA/BEER_LOGO.png" height="80">
+<img src="https://github.com/jumphone/PhenoPro/raw/master/IMG/LOGO.png" height="80">
+<img src="https://github.com/jumphone/SPRINT/raw/master/data/LOGO.png?raw=true" height="80">
 </p>
 
 
