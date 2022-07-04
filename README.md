@@ -4,12 +4,12 @@
 
 
 <p float="left">
-<img src="https://github.com/jumphone/FitDevo/blob/main/img/logo.png?raw=true" height="60">
-<img src="https://github.com/Drizzle-Zhang/scMAGIC/raw/main/figures/Logo.png" height="60">
-<img src="https://github.com/jumphone/BEER/raw/master/DATA/Vector_LOGO.png" height="60">
-<img src="https://github.com/jumphone/BEER/raw/master/DATA/BEER_LOGO.png" height="60">
-<img src="https://github.com/jumphone/PhenoPro/raw/master/IMG/LOGO.png" height="60">
-<img src="https://github.com/jumphone/SPRINT/raw/master/data/LOGO.png?raw=true" height="60">
+<img src="https://fzhang.bioinfo-lab.com/img/tools/logo_fitdevo.png" height="60">
+<img src="https://fzhang.bioinfo-lab.com/img/tools/logo_scmagic.png" height="60">
+<img src="https://fzhang.bioinfo-lab.com/img/tools/logo_vector.png" height="60">
+<img src="https://fzhang.bioinfo-lab.com/img/tools/logo_beer.png" height="60">
+<img src="https://fzhang.bioinfo-lab.com/img/tools/logo_phenopro.png" height="60">
+<img src="https://fzhang.bioinfo-lab.com/img/tools/logo_sprint.png" height="60">
 </p>
 
 
