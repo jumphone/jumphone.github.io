@@ -15,7 +15,7 @@
 
 * **Single-cell & Development**
 
-   * FitDevo: accurate inference of single-cell developmental potential using sample-specific gene weight, **Briefings in Bioinformatics, 2022**, {[code](https://github.com/jumphone/FitDevo), [paper](https://academic.oup.com/bib/advance-article/doi/10.1093/bib/bbac293/6649289)}, first & co-corresponding author
+   * FitDevo: accurate inference of single-cell developmental potential using sample-specific gene weight, **Briefings in Bioinformatics, 2022**, {[code](https://github.com/jumphone/FitDevo), [paper](https://doi.org/10.1093/bib/bbac293)}, first & co-corresponding author
 
    * Unsupervised Inference of Developmental Directions for Single Cells Using VECTOR, **Cell Reports, 2020**, {[code](https://github.com/jumphone/Vector), [paper](https://doi.org/10.1016/j.celrep.2020.108069)}, first author
 
