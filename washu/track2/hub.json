@@ -2,7 +2,7 @@
     
     {
     "type": "longrange",
-    "name": "Epidermal_Keratinocyte",
+    "name": "Neuron.Ex",
     "url": "https://fzhang.bioinfo-lab.com/washu/track2/Neuron.Ex.longrange.bed.gz",
      "options": {
         "color": "blue",
@@ -13,7 +13,7 @@
     
      {
     "type": "longrange",
-    "name": "Myoepithelial",
+    "name": "Neuron.In",
     "url": "https://fzhang.bioinfo-lab.com/washu/track2/Neuron.In.longrange.bed.gz",
      "options": {
         "color": "blue",
@@ -24,7 +24,7 @@
     
     {
     "type": "longrange",
-    "name": "Melanocyte",
+    "name": "Astro",
     "url": "https://fzhang.bioinfo-lab.com/washu/track2/Astro.longrange.bed.gz",
      "options": {
         "color": "blue",
@@ -35,7 +35,7 @@
     
     {
     "type": "longrange",
-    "name": "Endothelial",
+    "name": "OPC",
     "url": "https://fzhang.bioinfo-lab.com/washu/track2/OPC.longrange.bed.gz",
      "options": {
         "color": "blue",
@@ -46,7 +46,7 @@
     
     {
     "type": "longrange",
-    "name": "Fibroblast",
+    "name": "ODC",
     "url": "https://fzhang.bioinfo-lab.com/washu/track2/ODC.longrange.bed.gz",
      "options": {
         "color": "blue",
@@ -57,7 +57,7 @@
     
     {
     "type": "longrange",
-    "name": "Pericyte",
+    "name": "MG",
     "url": "https://fzhang.bioinfo-lab.com/washu/track2/MG.longrange.bed.gz",
      "options": {
         "color": "blue",
@@ -68,7 +68,7 @@
     
     {
     "type": "longrange",
-    "name": "Pericyte",
+    "name": "Endo",
     "url": "https://fzhang.bioinfo-lab.com/washu/track2/Endo.longrange.bed.gz",
      "options": {
         "color": "blue",
