@@ -3,9 +3,9 @@
     {
     "type": "longrange",
     "name": "Epidermal_Keratinocyte",
-    "url": "https://fzhang.bioinfo-lab.com/washu/track2/SkinSunExposed_Epidermal_Keratinocyte.longrange.bed.gz",
+    "url": "https://fzhang.bioinfo-lab.com/washu/track2/Neuron.Ex.longrange.bed.gz",
      "options": {
-        "color": "red",
+        "color": "blue",
         "height":"200",
         "displayMode": "arc"
         }
@@ -14,7 +14,7 @@
      {
     "type": "longrange",
     "name": "Myoepithelial",
-    "url": "https://fzhang.bioinfo-lab.com/washu/track2/SkinSunExposed_Myoepithelial.longrange.bed.gz",
+    "url": "https://fzhang.bioinfo-lab.com/washu/track2/Neuron.In.longrange.bed.gz",
      "options": {
         "color": "blue",
         "height":"200",
@@ -25,7 +25,7 @@
     {
     "type": "longrange",
     "name": "Melanocyte",
-    "url": "https://fzhang.bioinfo-lab.com/washu/track2/SkinSunExposed_Melanocyte.longrange.bed.gz",
+    "url": "https://fzhang.bioinfo-lab.com/washu/track2/Astro.longrange.bed.gz",
      "options": {
         "color": "blue",
         "height":"200",
@@ -36,7 +36,7 @@
     {
     "type": "longrange",
     "name": "Endothelial",
-    "url": "https://fzhang.bioinfo-lab.com/washu/track2/SkinSunExposed_Endothelial.longrange.bed.gz",
+    "url": "https://fzhang.bioinfo-lab.com/washu/track2/OPC.longrange.bed.gz",
      "options": {
         "color": "blue",
         "height":"200",
@@ -47,7 +47,7 @@
     {
     "type": "longrange",
     "name": "Fibroblast",
-    "url": "https://fzhang.bioinfo-lab.com/washu/track2/SkinSunExposed_Fibroblast.longrange.bed.gz",
+    "url": "https://fzhang.bioinfo-lab.com/washu/track2/ODC.longrange.bed.gz",
      "options": {
         "color": "blue",
         "height":"200",
@@ -58,7 +58,7 @@
     {
     "type": "longrange",
     "name": "Pericyte",
-    "url": "https://fzhang.bioinfo-lab.com/washu/track2/SkinSunExposed_Pericyte.longrange.bed.gz",
+    "url": "https://fzhang.bioinfo-lab.com/washu/track2/MG.longrange.bed.gz",
      "options": {
         "color": "blue",
         "height":"200",
@@ -69,7 +69,7 @@
     {
     "type": "longrange",
     "name": "Pericyte",
-    "url": "https://fzhang.bioinfo-lab.com/washu/track2/SkinSunExposed_Pericyte.longrange.bed.gz",
+    "url": "https://fzhang.bioinfo-lab.com/washu/track2/Endo.longrange.bed.gz",
      "options": {
         "color": "blue",
         "height":"200",
