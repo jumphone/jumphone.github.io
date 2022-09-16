@@ -1,0 +1,82 @@
+[
+    
+    {
+    "type": "longrange",
+    "name": "Epidermal_Keratinocyte",
+    "url": "https://fzhang.bioinfo-lab.com/washu/track2/SkinSunExposed_Epidermal_Keratinocyte.longrange.bed.gz",
+     "options": {
+        "color": "red",
+        "height":"200",
+        "displayMode": "arc"
+        }
+    },
+    
+     {
+    "type": "longrange",
+    "name": "Myoepithelial",
+    "url": "https://fzhang.bioinfo-lab.com/washu/track2/SkinSunExposed_Myoepithelial.longrange.bed.gz",
+     "options": {
+        "color": "blue",
+        "height":"200",
+        "displayMode": "arc"
+        }
+    },
+    
+    {
+    "type": "longrange",
+    "name": "Melanocyte",
+    "url": "https://fzhang.bioinfo-lab.com/washu/track2/SkinSunExposed_Melanocyte.longrange.bed.gz",
+     "options": {
+        "color": "blue",
+        "height":"200",
+        "displayMode": "arc"
+        }
+    },
+    
+    {
+    "type": "longrange",
+    "name": "Endothelial",
+    "url": "https://fzhang.bioinfo-lab.com/washu/track2/SkinSunExposed_Endothelial.longrange.bed.gz",
+     "options": {
+        "color": "blue",
+        "height":"200",
+        "displayMode": "arc"
+        }
+    },
+    
+    {
+    "type": "longrange",
+    "name": "Fibroblast",
+    "url": "https://fzhang.bioinfo-lab.com/washu/track2/SkinSunExposed_Fibroblast.longrange.bed.gz",
+     "options": {
+        "color": "blue",
+        "height":"200",
+        "displayMode": "arc"
+        }
+    },
+    
+    {
+    "type": "longrange",
+    "name": "Pericyte",
+    "url": "https://fzhang.bioinfo-lab.com/washu/track2/SkinSunExposed_Pericyte.longrange.bed.gz",
+     "options": {
+        "color": "blue",
+        "height":"200",
+        "displayMode": "arc"
+        }
+    },
+    
+    {
+    "type": "longrange",
+    "name": "Pericyte",
+    "url": "https://fzhang.bioinfo-lab.com/washu/track2/SkinSunExposed_Pericyte.longrange.bed.gz",
+     "options": {
+        "color": "blue",
+        "height":"200",
+        "displayMode": "arc"
+        }
+    }
+    
+    
+    
+]
