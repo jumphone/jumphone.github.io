@@ -6,7 +6,7 @@
     "url": "https://fzhang.bioinfo-lab.com/washu/track2/Neuron.Ex.longrange.bed.gz",
      "options": {
         "color": "blue",
-        "height":"200",
+        "height":"100",
         "displayMode": "arc"
         }
     },
@@ -17,7 +17,7 @@
     "url": "https://fzhang.bioinfo-lab.com/washu/track2/Neuron.In.longrange.bed.gz",
      "options": {
         "color": "blue",
-        "height":"200",
+        "height":"100",
         "displayMode": "arc"
         }
     },
@@ -28,7 +28,7 @@
     "url": "https://fzhang.bioinfo-lab.com/washu/track2/Astro.longrange.bed.gz",
      "options": {
         "color": "blue",
-        "height":"200",
+        "height":"100",
         "displayMode": "arc"
         }
     },
@@ -39,7 +39,7 @@
     "url": "https://fzhang.bioinfo-lab.com/washu/track2/OPC.longrange.bed.gz",
      "options": {
         "color": "blue",
-        "height":"200",
+        "height":"100",
         "displayMode": "arc"
         }
     },
@@ -50,7 +50,7 @@
     "url": "https://fzhang.bioinfo-lab.com/washu/track2/ODC.longrange.bed.gz",
      "options": {
         "color": "blue",
-        "height":"200",
+        "height":"100",
         "displayMode": "arc"
         }
     },
@@ -61,7 +61,7 @@
     "url": "https://fzhang.bioinfo-lab.com/washu/track2/MG.longrange.bed.gz",
      "options": {
         "color": "blue",
-        "height":"200",
+        "height":"100",
         "displayMode": "arc"
         }
     },
@@ -72,7 +72,7 @@
     "url": "https://fzhang.bioinfo-lab.com/washu/track2/Endo.longrange.bed.gz",
      "options": {
         "color": "blue",
-        "height":"200",
+        "height":"100",
         "displayMode": "arc"
         }
     }
