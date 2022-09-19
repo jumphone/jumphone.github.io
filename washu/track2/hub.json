@@ -64,19 +64,7 @@
         "height":"100",
         "displayMode": "arc"
         }
-    },
-    
-    {
-    "type": "longrange",
-    "name": "Endo",
-    "url": "https://fzhang.bioinfo-lab.com/washu/track2/Endo.longrange.bed.gz",
-     "options": {
-        "color": "blue",
-        "height":"100",
-        "displayMode": "arc"
-        }
     }
-    
-    
+       
     
 ]
