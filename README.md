@@ -35,13 +35,6 @@
 
 <img src="https://fzhang.bioinfo-lab.com/img/colla_logo.png" width="200" height="50">
 
-* **Chinese Academy of Sciences**
-  
-  * Single-cell transcriptomic analysis reveals a hepatic stellate cell-activation roadmap and myofibroblast origin during liver fibrosis, **Hepatology, 2021**, [paper](https://doi.org/10.1002/hep.31987)
-
-
-* **Cincinnati Children's Hospital Medical Center**
-  
   * Single-cell multiomics identifies clinically relevant mesenchymal stem-like cells and key regulators for MPNST malignancy, **Science Advances, 2022**, [paper](https://doi.org/10.1126/sciadv.abo5442)
   
   * Conserved and Distinct Functions of the Autism-Related Chromatin Remodeler CHD8 in Embryonic and Adult Forebrain Neurogenesis, **Journal of Neuroscience, 2022**, [paper](https://doi.org/10.1523/JNEUROSCI.2400-21.2022)
@@ -50,20 +43,19 @@
 
   * OLIG2 maintenance is not essential for diffuse intrinsic pontine glioma cell line growth but regulates tumor phenotypes, **Neuro-Oncology, 2021**, [paper](https://doi.org/10.1093/neuonc/noab016)
 
-  * Adaptive responses to mTOR gene targeting in hematopoietic stem cells reveal a proliferative mechanism evasive to mTOR inhibition, **Proceedings of the National Academy of Sciences of the United States of America, 2021**, [paper](https://www.pnas.org/content/118/1/e2020102118)
+  * Single-cell transcriptomic analysis reveals a hepatic stellate cell-activation roadmap and myofibroblast origin during liver fibrosis, **Hepatology, 2021**, [paper](https://doi.org/10.1002/hep.31987)
+
+  * Adaptive responses to mTOR gene targeting in hematopoietic stem cells reveal a proliferative mechanism evasive to mTOR inhibition, **Proceedings of the National Academy of Sciences of the United States of America, 2020**, [paper](https://www.pnas.org/content/118/1/e2020102118)
  
   * CTCF-mediated chromatin looping in EGR2 regulation and SUZ12 recruitment critical for peripheral myelination and repair, **Nature Communications, 2020**, [paper](https://doi.org/10.1038/s41467-020-17955-2)
+
+  * The CAFA challenge reports improved protein function prediction and new functional annotations for hundreds of genes through experimental screens, **Genome Biology, 2019**, [paper](https://doi.org/10.1186/s13059-019-1835-8)
 
   * Single-Cell Transcriptomics in Medulloblastoma Reveals Tumor-Initiating Progenitors and Oncogenic Cascades during Tumorigenesis and Relapse, **Cancer Cell, 2019**, [paper](https://doi.org/10.1016/j.ccell.2019.07.009)
 
   * Single-cell Transcriptomics Uncovers Glial Progenitor Diversity and Cell Fate Determinants during Development and Gliomagenesis, **Cell Stem Cell, 2019**, [paper](https://doi.org/10.1016/j.stem.2019.03.006)
 
   * Dual requirement of CHD8 for chromatin landscape establishment and histone methyltransferase recruitment to promote CNS myelination and repair, **Developmental Cell, 2018**, [paper](https://doi.org/10.1016/j.devcel.2018.05.022)
-
-
-* **Fudan University**
-
-  * The CAFA challenge reports improved protein function prediction and new functional annotations for hundreds of genes through experimental screens, **Genome Biology, 2019**, [paper](https://doi.org/10.1186/s13059-019-1835-8)
 
   * Genome-wide identification of regulatory sequences undergoing accelerated evolution in the human genome, **Molecular Biology and Evolution, 2016**, [paper](https://doi.org/10.1093/molbev/msw128)
 
