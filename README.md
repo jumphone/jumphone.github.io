@@ -13,25 +13,17 @@
 </p>
 
 
-* **Single-cell & Development**
-
    * FitDevo: accurate inference of single-cell developmental potential using sample-specific gene weight, **Briefings in Bioinformatics, 2022**, {[code](https://github.com/jumphone/FitDevo), [paper](https://doi.org/10.1093/bib/bbac293)}, first & co-corresponding author
 
+   * scMAGIC: accurately annotating single cells using two rounds of reference-based classification, **Nucleic Acids Research, 2022**, {[code](https://github.com/TianLab-Bioinfo/scMAGIC), [paper](https://doi.org/10.1093/nar/gkab1275)}, co-first author
+  
    * Unsupervised Inference of Developmental Directions for Single Cells Using VECTOR, **Cell Reports, 2020**, {[code](https://github.com/jumphone/Vector), [paper](https://doi.org/10.1016/j.celrep.2020.108069)}, first author
-
-* **Single-cell & Integration**
-
-  * scMAGIC: accurately annotating single cells using two rounds of reference-based classification, **Nucleic Acids Research, 2022**, {[code](https://github.com/TianLab-Bioinfo/scMAGIC), [paper](https://doi.org/10.1093/nar/gkab1275)}, co-first author
   
    * A novel approach to remove the batch effect of single-cell data, **Cell Discovery, 2019**, {[code](https://github.com/jumphone/BEER), [paper](https://doi.org/10.1038/s41421-019-0114-x)}, first author
    
-* **Bulk & RNA editing**
+  * PhenoPro: a novel toolkit for assisting in the diagnosis of Mendelian disease, **Bioinformatics, 2019**, {[code](https://github.com/jumphone/PhenoPro), [paper](https://doi.org/10.1093/bioinformatics/btz100)}, co-first author
 
   * SPRINT: an SNP-free toolkit for identifying RNA editing sites, **Bioinformatics, 2017**, {[code](https://github.com/jumphone/SPRINT), [paper](https://doi.org/10.1093/bioinformatics/btx473)}, first author
-
-* **Phenotype & Genotype**
-
-  * PhenoPro: a novel toolkit for assisting in the diagnosis of Mendelian disease, **Bioinformatics, 2019**, {[code](https://github.com/jumphone/PhenoPro), [paper](https://doi.org/10.1093/bioinformatics/btz100)}, co-first author
 
 <img src="https://fzhang.bioinfo-lab.com/img/white.png" height="50">
 
