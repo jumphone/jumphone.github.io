@@ -35,6 +35,8 @@
 
 <img src="https://fzhang.bioinfo-lab.com/img/colla_logo.png" width="200" height="50">
   
+  * Loss of phosphatase CTDNEP1 potentiates aggressive medulloblastoma by triggering MYC amplification and genomic instability, **Nature Communications, 2023**, [paper](https://doi.org/10.1038/s41467-023-36400-8)
+  
   * Inducible lncRNA transgenic mice reveal continual role of HOTAIR in promoting breast cancer metastasis, **Elife, 2022**, [paper](https://doi.org/10.7554/elife.79126)
   
   * Human fetal cerebellar cell atlas informs medulloblastoma origin and oncogenesis, **Nature, 2022**, [paper](https://doi.org/10.1038/s41586-022-05487-2)
