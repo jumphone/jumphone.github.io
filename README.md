@@ -4,6 +4,7 @@
 
 
 <p float="left">
+<img src="https://fzhang.bioinfo-lab.com/img/inferloop_logo.jpg" height="60">
 <img src="https://fzhang.bioinfo-lab.com/img/tools/logo_fitdevo.png" height="60">
 <img src="https://fzhang.bioinfo-lab.com/img/tools/logo_scmagic.png" height="60">
 <img src="https://fzhang.bioinfo-lab.com/img/tools/logo_vector.png" height="60">
