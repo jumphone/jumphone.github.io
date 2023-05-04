@@ -14,7 +14,7 @@
 </p>
 
 
-  * InferLoop: leveraging single-cell chromatin accessibility for the signal of chromatin loop, **Briefings in Bioinformatics, 2023**, {[code](https://github.com/jumphone/InferLoop), in press, first & co-corresponding author
+  * InferLoop: leveraging single-cell chromatin accessibility for the signal of chromatin loop, **Briefings in Bioinformatics, 2023**, {[code](https://github.com/jumphone/InferLoop), [paper](https://doi.org/10.1093/bib/bbad166)}, first & co-corresponding author
 
   * FitDevo: accurate inference of single-cell developmental potential using sample-specific gene weight, **Briefings in Bioinformatics, 2022**, {[code](https://github.com/jumphone/FitDevo), [paper](https://doi.org/10.1093/bib/bbac293)}, first & co-corresponding author
 
