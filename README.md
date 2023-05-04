@@ -86,7 +86,7 @@
 
 * **PhD**, Biostatistics, School of Life Sciences, Fudan University, China, **2015-2020**. Supervisor: [Prof. Weidong Tian](https://life.fudan.edu.cn/9f/60/c31283a368480/page.htm)
 
-* **Summer School**, University of California, Los Angeles, USA, **2013**. Introduction to Biostatistics. Instructor: [Prof. Gjertson, D.W.](https://ph.ucla.edu/faculty/gjertson)
+* **Summer School**, University of California, Los Angeles, USA, **2013**. Introduction to Biostatistics. Instructor: [Prof. Gjertson, D.W.](https://bioscience.ucla.edu/people/david-gjertson/)
 
 * **BSc**, School of Mathmatics, Shandong University, China, **2011-2015** 
 
