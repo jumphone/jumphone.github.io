@@ -41,6 +41,8 @@
 
 <img src="https://fzhang.bioinfo-lab.com/img/colla_logo.png" width="200" height="50">
 
+  * Long-read sequencing reveals alternative splicing-driven, shared immunogenic neoepitopes regardless SF3B1 status in uveal melanoma, **Cancer Immunology Research, 2023**, [paper](https://doi.org/10.1158/2326-6066.cir-23-0083)
+  
   * Kinase-independent role of mTOR and on-/off-target effects of an mTOR kinase inhibitor, **Leukemia, 2023**, [paper](https://doi.org/10.1038/s41375-023-01987-w)
   
   * Loss of phosphatase CTDNEP1 potentiates aggressive medulloblastoma by triggering MYC amplification and genomic instability, **Nature Communications, 2023**, [paper](https://doi.org/10.1038/s41467-023-36400-8)
