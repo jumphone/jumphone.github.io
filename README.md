@@ -15,7 +15,7 @@
 </p>
 
 
-  * Feature-weight based measurement of cancerous transcriptome using cohort-wide and sample-specific information, **Cellular Oncology, 2023**, {[code](https://github.com/jumphone/FWP), [paper](https://doi.org/10.1007/s13402-023-00879-6)}, corresponding author
+  * Feature-weight based measurement of cancerous transcriptome using cohort-wide and sample-specific information, **Cellular Oncology, 2023**, {[code](https://github.com/jumphone/FWP), [paper](https://doi.org/10.1007/s13402-023-00879-6), [view full-text](https://rdcu.be/dn9I1)}, corresponding author
 
   * InferLoop: leveraging single-cell chromatin accessibility for the signal of chromatin loop, **Briefings in Bioinformatics, 2023**, {[code](https://github.com/jumphone/InferLoop), [paper](https://doi.org/10.1093/bib/bbad166)}, first & co-corresponding author
 
