@@ -14,6 +14,7 @@
 <img src="https://fzhang.bioinfo-lab.com/img/tools/logo_sprint.png" height="60">
 </p>
 
+  * Quantitative analysis of the developmental potential of cells and tissues based on evolutionary conservation of genes and regulatory regions, **Journal of Shanghai Jiao Tong University (Medical Science), 2024**, {[paper](https://xuebao.shsmu.edu.cn/CN/10.3969/j.issn.1674-8115.2023.11.006)}, co-corresponding author
 
   * Feature-weight based measurement of cancerous transcriptome using cohort-wide and sample-specific information, **Cellular Oncology, 2023**, {[code](https://github.com/jumphone/FWP), [paper](https://doi.org/10.1007/s13402-023-00879-6), [full-text](https://rdcu.be/dn9I1)}, corresponding author
 
