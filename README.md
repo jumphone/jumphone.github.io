@@ -84,7 +84,7 @@
 
 ---------------------------------------
 
-&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://fzhang.bioinfo-lab.com/img/jiaotong_logo.png" width="150">
+&nbsp;&nbsp;&nbsp;&nbsp;
 
 * **Research Assistant Professor (助理研究员)**, Department of Histoembryology, Genetics and Developmental Biology, Shanghai Jiao Tong University School of Medicine, China, **2020-present**
 
