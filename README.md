@@ -40,7 +40,9 @@
 
 <img src="https://fzhang.bioinfo-lab.com/img/colla_logo.png" width="200" height="50">
 
-  * Quantitative analysis of the developmental potential of cells and tissues based on evolutionary conservation of genes and regulatory regions, **Journal of Shanghai Jiao Tong University (Medical Science), 2024**, [paper](https://xuebao.shsmu.edu.cn/CN/10.3969/j.issn.1674-8115.2023.11.006)
+  * ARID1A loss promotes RNA editing of CDK13 in an ADAR1-dependent manner, **BMC Biology, 2024**, [paper](https://doi.org/10.1186/s12915-024-01927-9)
+
+  * Quantitative analysis of the developmental potential of cells and tissues based on evolutionary conservation of genes and regulatory regions, **Journal of Shanghai Jiao Tong University (Medical Science), 2024**, [paper](https://xuebao.shsmu.edu.cn/CN/10.3969/j.issn.1674-8115.2023.11.006), co-corresponding author
 
   * Long-read sequencing reveals alternative splicing-driven, shared immunogenic neoepitopes regardless SF3B1 status in uveal melanoma, **Cancer Immunology Research, 2023**, [paper](https://doi.org/10.1158/2326-6066.cir-23-0083)
   
