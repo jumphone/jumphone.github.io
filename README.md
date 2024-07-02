@@ -88,7 +88,9 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;
 
-* **Research Assistant Professor (助理研究员)**, Department of Histoembryology, Genetics and Developmental Biology, Shanghai Jiao Tong University School of Medicine, China, **2020-present**
+* **Research Associate Professor (副研究员)**, passed evaluation (pending official promotion), Department of Histoembryology, Genetics and Developmental Biology, Shanghai Jiao Tong University School of Medicine, China, **2024-present**
+
+* **Research Assistant Professor (助理研究员)**, Department of Histoembryology, Genetics and Developmental Biology, Shanghai Jiao Tong University School of Medicine, China, **2020-2023**
 
 * **Graduate Assistant & Visiting Scholar**, Cincinnati Children's Hospital Medical Center, USA, **2018-2020**. Collaborator: [Prof. Qing Richard Lu](https://www.cincinnatichildrens.org/bio/l/qing-richard-lu) and [Prof. Yi Zheng](https://www.cincinnatichildrens.org/bio/z/yi-zheng)
 
