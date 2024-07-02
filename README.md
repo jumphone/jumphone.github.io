@@ -14,6 +14,8 @@
 <img src="https://fzhang.bioinfo-lab.com/img/tools/logo_sprint.png" height="60">
 </p>
 
+  * Quantitative analysis of the developmental potential of cells and tissues based on evolutionary conservation of genes and regulatory regions, **Journal of Shanghai Jiao Tong University (Medical Science), 2024**, [paper](https://xuebao.shsmu.edu.cn/CN/10.3969/j.issn.1674-8115.2023.11.006), co-corresponding author
+  
   * Feature-weight based measurement of cancerous transcriptome using cohort-wide and sample-specific information, **Cellular Oncology, 2023**, {[code](https://github.com/jumphone/FWP), [paper](https://doi.org/10.1007/s13402-023-00879-6), [full-text](https://rdcu.be/dn9I1)}, corresponding author
 
   * InferLoop: leveraging single-cell chromatin accessibility for the signal of chromatin loop, **Briefings in Bioinformatics, 2023**, {[code](https://github.com/jumphone/InferLoop), [paper](https://doi.org/10.1093/bib/bbad166)}, first & co-corresponding author
@@ -41,8 +43,6 @@
 <img src="https://fzhang.bioinfo-lab.com/img/colla_logo.png" width="200" height="50">
 
   * ARID1A loss promotes RNA editing of CDK13 in an ADAR1-dependent manner, **BMC Biology, 2024**, [paper](https://doi.org/10.1186/s12915-024-01927-9)
-
-  * Quantitative analysis of the developmental potential of cells and tissues based on evolutionary conservation of genes and regulatory regions, **Journal of Shanghai Jiao Tong University (Medical Science), 2024**, [paper](https://xuebao.shsmu.edu.cn/CN/10.3969/j.issn.1674-8115.2023.11.006), co-corresponding author
 
   * Long-read sequencing reveals alternative splicing-driven, shared immunogenic neoepitopes regardless SF3B1 status in uveal melanoma, **Cancer Immunology Research, 2023**, [paper](https://doi.org/10.1158/2326-6066.cir-23-0083)
   
