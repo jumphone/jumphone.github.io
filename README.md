@@ -42,6 +42,8 @@
 
 <img src="https://fzhang.bioinfo-lab.com/img/colla_logo.png" width="200" height="50">
 
+  * Ultrasmall Cu2I2 nanoclusters trigger metabolic-epigenetic reprogramming and endogenous antioxidant systems for alleviating osteoarthritis, **Chemical Engineering Journal, 2024**, [paper](https://doi.org/10.1016/j.cej.2024.154568)
+  
   * ARID1A loss promotes RNA editing of CDK13 in an ADAR1-dependent manner, **BMC Biology, 2024**, [paper](https://doi.org/10.1186/s12915-024-01927-9)
 
   * Long-read sequencing reveals alternative splicing-driven, shared immunogenic neoepitopes regardless SF3B1 status in uveal melanoma, **Cancer Immunology Research, 2023**, [paper](https://doi.org/10.1158/2326-6066.cir-23-0083)
