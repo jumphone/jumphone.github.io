@@ -112,8 +112,8 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;<img src="https://fzhang.bioinfo-lab.com/img/email_logo.png" width="200">
 
-* **No.280 South Chong Qing Road, Shanghai, China, 200025**
+* Comming Soon
 
-* **fzhang@shsmu.edu.cn**
+
 
 
