@@ -54,8 +54,6 @@
   
   * Inducible lncRNA transgenic mice reveal continual role of HOTAIR in promoting breast cancer metastasis, **Elife, 2022**, [paper](https://doi.org/10.7554/elife.79126)
   
-  * Human fetal cerebellar cell atlas informs medulloblastoma origin and oncogenesis, **Nature, 2022**, [paper](https://doi.org/10.1038/s41586-022-05487-2)
-
   * Single-cell multiomics identifies clinically relevant mesenchymal stem-like cells and key regulators for MPNST malignancy, **Science Advances, 2022**, [paper](https://doi.org/10.1126/sciadv.abo5442)
   
   * Conserved and Distinct Functions of the Autism-Related Chromatin Remodeler CHD8 in Embryonic and Adult Forebrain Neurogenesis, **Journal of Neuroscience, 2022**, [paper](https://doi.org/10.1523/JNEUROSCI.2400-21.2022)
