@@ -1,10 +1,11 @@
+<p float="left">
+<img src="https://fzhang.bioinfo-lab.com/img/biuh_logo.jpg" height="60">
+</p>
+
 ### **BiUH, CS, Associate Professor**
 
 ---------------------------------------
 
-<p float="left">
-<img src="https://fzhang.bioinfo-lab.com/img/biuh_logo.jpg" height="60">
-</p>
 
 **Work History**: Research Associate Professor in Shanghai Jiao Tong University School of Medicine (PI: Prof Lingjie Li). Visiting Scholar at Cincinnati Children's Hospital in the United States (Collaborator: Prof Qing Richard Lu and Prof Yi Zheng) 
 
