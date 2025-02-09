@@ -88,6 +88,8 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;
 
+* **Associate Professor**, Computer Science, Hainan Bielefeld University of Applied Sciences, China, **2025.02-present**
+
 * **Research Associate Professor**, Department of Histoembryology, Genetics and Developmental Biology, Shanghai Jiao Tong University School of Medicine, China, **2024.01-2025.01**
 
 * **Research Assistant Professor**, Department of Histoembryology, Genetics and Developmental Biology, Shanghai Jiao Tong University School of Medicine, China, **2020.10-2023.12**
