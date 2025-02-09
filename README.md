@@ -1,4 +1,4 @@
-### **BiUH,CS,Associate Professor**
+### **BiUH, CS, Associate Professor**
 
 **Work History**: Research Associate Professor in Shanghai Jiao Tong University School of Medicine (PI: Prof Lingjie Li). Visiting scholar at Cincinnati Children's Hospital in the United States (Collaborator: Prof Qing Richard Lu and Prof Yi Zheng) 
 
