@@ -1,10 +1,10 @@
-### **BiUH，CS，Associate Professor**
+### **BiUH,CS,Associate Professor**
 
-**Work History**：Research Associate Professor in Shanghai Jiao Tong University School of Medicine (PI: Prof Lingjie Li). Visiting scholar at Cincinnati Children's Hospital in the United States (Collaborator: Prof Qing Richard Lu and Prof Yi Zheng) 
+**Work History**: Research Associate Professor in Shanghai Jiao Tong University School of Medicine (PI: Prof Lingjie Li). Visiting scholar at Cincinnati Children's Hospital in the United States (Collaborator: Prof Qing Richard Lu and Prof Yi Zheng) 
 
-**Education**：PhD, Department of Computational Biology at the School of Life Sciences, Fudan University (Supervisor: Prof Weidong Tian). BSc, School of Mathmatics, Shandong University. After graduating with a BSc, Feng was directly admitted to a Ph.D. program
+**Education**: PhD, Department of Computational Biology at the School of Life Sciences, Fudan University (Supervisor: Prof Weidong Tian). BSc, School of Mathmatics, Shandong University. After graduating with a BSc, Feng was directly admitted to a Ph.D. program
 
-**Research**：Feng's main research area is the development and innovative application of algorithms for single-cell and spatial multi-omics data, with years of experience in algorithm development and data analysis. Feng has led projects funded by the National Natural Science Foundation of China and the Shanghai Sailing Program (sponsored by the Science and Technology Commission of Shanghai Municipality) and participated in multiple national and provincial projects. Feng's main studies in algorithm development has been published in journals such as Cell Reports, Cell Discovery, and Brief Bioinform, whereas his collaborative research has been published in highly reputable journals such as Cancer Cell, Cell Stem Cell, and PNAS.
+**Research**: Feng's main research area is the development and innovative application of algorithms for single-cell and spatial multi-omics data, with years of experience in algorithm development and data analysis. Feng has led projects funded by the National Natural Science Foundation of China and the Shanghai Sailing Program (sponsored by the Science and Technology Commission of Shanghai Municipality) and participated in multiple national and provincial projects. Feng's main studies in algorithm development has been published in journals such as Cell Reports, Cell Discovery, and Brief Bioinform, whereas his collaborative research has been published in highly reputable journals such as Cancer Cell, Cell Stem Cell, and PNAS.
 
 
 <img src="https://fzhang.bioinfo-lab.com/img/white.png" height="50">
