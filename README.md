@@ -7,7 +7,7 @@
 ---------------------------------------
 
 
-**Work History**: Research Associate Professor in Shanghai Jiao Tong University School of Medicine (PI: Prof Lingjie Li). Visiting Scholar at Cincinnati Children's Hospital in the United States (Collaborator: Prof Qing Richard Lu and Prof Yi Zheng) 
+**Work History**: Research Associate Professor in Shanghai Jiao Tong University School of Medicine (Collaborator: Prof Lingjie Li). Visiting Scholar at Cincinnati Children's Hospital in the United States (Collaborator: Prof Qing Richard Lu and Prof Yi Zheng) 
 
 **Education**: PhD, Department of Computational Biology at the School of Life Sciences, Fudan University (Supervisor: Prof Weidong Tian). BSc, School of Mathmatics, Shandong University. After graduating with a BSc, Feng was directly admitted to a Ph.D. program
 
