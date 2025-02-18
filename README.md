@@ -115,9 +115,9 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;<img src="https://fzhang.bioinfo-lab.com/img/email_logo.png" width="200">
 
-* **Email (work)**: feng.zhang_at_hainan-biuh.edu.cn
+* **Email (work)**: feng.zhang at hainan-biuh.edu.cn
 
-* **Email (private)**: jumphone_at_outlook.com 
+* **Email (private)**: jumphone at outlook.com 
 
 * **Address**: Hainan Lingshui Li’an International Education Innovation Pilot Zone, 572426, China
 
