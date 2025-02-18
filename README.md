@@ -24,14 +24,7 @@
 
 
 <p float="left">
-<img src="https://fzhang.bioinfo-lab.com/img/tools/logo_fwp.png" height="60">
-<img src="https://fzhang.bioinfo-lab.com/img/inferloop_logo.jpg" height="60">
-<img src="https://fzhang.bioinfo-lab.com/img/tools/logo_fitdevo.png" height="60">
-<img src="https://fzhang.bioinfo-lab.com/img/tools/logo_scmagic.png" height="60">
-<img src="https://fzhang.bioinfo-lab.com/img/tools/logo_vector.png" height="60">
-<img src="https://fzhang.bioinfo-lab.com/img/tools/logo_beer.png" height="60">
-<img src="https://fzhang.bioinfo-lab.com/img/tools/logo_phenopro.png" height="60">
-<img src="https://fzhang.bioinfo-lab.com/img/tools/logo_sprint.png" height="60">
+<img src="https://fzhang.bioinfo-lab.com/img/research_logo.jpg" height="60">
 </p>
 
   * Ultrasmall Cu2I2 nanoclusters trigger metabolic-epigenetic reprogramming and endogenous antioxidant systems for alleviating osteoarthritis, **Chemical Engineering Journal**, 2024.10, [paper](https://doi.org/10.1016/j.cej.2024.154568)
