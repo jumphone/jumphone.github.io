@@ -22,10 +22,7 @@
 
 ---------------------------------------
 
-
-<p float="left">
-<img src="https://fzhang.bioinfo-lab.com/img/research_logo.jpg" height="60">
-</p>
+&nbsp;&nbsp;&nbsp;&nbsp;
 
   * Ultrasmall Cu2I2 nanoclusters trigger metabolic-epigenetic reprogramming and endogenous antioxidant systems for alleviating osteoarthritis, **Chemical Engineering Journal**, 2024.10, [paper](https://doi.org/10.1016/j.cej.2024.154568)
   
