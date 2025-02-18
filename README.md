@@ -115,11 +115,11 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;<img src="https://fzhang.bioinfo-lab.com/img/email_logo.png" width="200">
 
-* feng.zhang_at_hainan-biuh.edu.cn (work)
+* **Email (work)**: feng.zhang_at_hainan-biuh.edu.cn
 
-* jumphone_at_outlook.com (private)
+* **Email (private)**: jumphone_at_outlook.com 
 
-* Hainan Lingshui Li’an International Education Innovation Pilot Zone, 572426, Lingshui, Hainan, China
+* **Address**: Hainan Lingshui Li’an International Education Innovation Pilot Zone, 572426, China
 
 
 
