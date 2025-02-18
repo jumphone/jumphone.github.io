@@ -7,9 +7,10 @@
 ---------------------------------------
 
 
-**Work History**: Research Associate Professor in Shanghai Jiao Tong University School of Medicine (Collaborator: Prof Lingjie Li). Visiting Scholar at Cincinnati Children's Hospital in the United States (Collaborator: Prof Qing Richard Lu and Prof Yi Zheng) 
+**Work History**: Research Associate Professor in Shanghai Jiao Tong University School of Medicine (Collaborator: Prof Lingjie Li). Visiting Scholar at Cincinnati Children's Hospital in the United States (Collaborator: Prof Qing Richard Lu](https://www.cincinnatichildrens.org/bio/l/qing-richard-lu) and [Prof Yi Zheng](https://www.cincinnatichildrens.org/bio/z/yi-zheng)) 
 
-**Education**: PhD, Department of Computational Biology at the School of Life Sciences, Fudan University (Supervisor: Prof Weidong Tian). BSc, School of Mathmatics, Shandong University. After graduating with a BSc, Feng was directly admitted to a Ph.D. program
+**Education**: PhD, Department of Computational Biology at the School of Life Sciences, Fudan University (Supervisor: [Prof Weidong Tian](https://life.fudan.edu.cn/9f/60/c31283a368480/page.htm)
+). BSc, School of Mathmatics, Shandong University. After graduating with a BSc, Feng was directly admitted to a Ph.D. program
 
 **Research**: Feng's main research area is the development and innovative application of algorithms for single-cell and spatial multi-omics data, with years of experience in algorithm development and data analysis. Feng has led projects funded by the National Natural Science Foundation of China and the Shanghai Sailing Program (sponsored by the Science and Technology Commission of Shanghai Municipality) and participated in multiple national and provincial projects. Feng's main studies in algorithm development has been published in journals such as Cell Reports, Cell Discovery, and Brief Bioinform, whereas his collaborative research has been published in highly reputable journals such as Cancer Cell, Cell Stem Cell, and PNAS.
 
