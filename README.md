@@ -25,6 +25,8 @@
 
 &nbsp;&nbsp;
 
+  * ★ A Novel Prognostic Signature of Mitophagy-Related E3 Ubiquitin Ligases in Breast Cancer, **International Journal of Molecular Sciences**, 2025.02, [paper](https://doi.org/10.3390/ijms26041551), co-corresponding author
+
   * Ultrasmall Cu2I2 nanoclusters trigger metabolic-epigenetic reprogramming and endogenous antioxidant systems for alleviating osteoarthritis, **Chemical Engineering Journal**, 2024.10, [paper](https://doi.org/10.1016/j.cej.2024.154568)
   
   * ARID1A loss promotes RNA editing of CDK13 in an ADAR1-dependent manner, **BMC Biology**, 2024.06, [paper](https://doi.org/10.1186/s12915-024-01927-9)
