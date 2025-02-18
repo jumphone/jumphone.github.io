@@ -91,19 +91,19 @@
 
 &nbsp;&nbsp;
 
-* **Associate Professor**, Computer Science, Hainan Bielefeld University of Applied Sciences, China, **2025.02-present**
+* **Associate Professor**, Computer Science, Hainan Bielefeld University of Applied Sciences, China, 2025.02-present
 
-* **Research Associate Professor**, Department of Histoembryology, Genetics and Developmental Biology, Shanghai Jiao Tong University School of Medicine, China, **2024.01-2025.01**
+* **Research Associate Professor**, Department of Histoembryology, Genetics and Developmental Biology, Shanghai Jiao Tong University School of Medicine, China, 2024.01-2025.01
 
-* **Research Assistant Professor**, Department of Histoembryology, Genetics and Developmental Biology, Shanghai Jiao Tong University School of Medicine, China, **2020.10-2023.12**
+* **Research Assistant Professor**, Department of Histoembryology, Genetics and Developmental Biology, Shanghai Jiao Tong University School of Medicine, China, 2020.10-2023.12
 
-* **Graduate Assistant & Visiting Scholar**, Cincinnati Children's Hospital Medical Center, USA, **2018.01-2020.01**. Collaborator: [Prof. Qing Richard Lu](https://www.cincinnatichildrens.org/bio/l/qing-richard-lu) and [Prof. Yi Zheng](https://www.cincinnatichildrens.org/bio/z/yi-zheng)
+* **Graduate Assistant & Visiting Scholar**, Cincinnati Children's Hospital Medical Center, USA, 2018.01-2020.01. Collaborator: [Prof. Qing Richard Lu](https://www.cincinnatichildrens.org/bio/l/qing-richard-lu) and [Prof. Yi Zheng](https://www.cincinnatichildrens.org/bio/z/yi-zheng)
 
-* **PhD**, Biostatistics, School of Life Sciences, Fudan University, China, **2015.09-2020.06**. Supervisor: [Prof. Weidong Tian](https://life.fudan.edu.cn/9f/60/c31283a368480/page.htm)
+* **PhD**, Biostatistics, School of Life Sciences, Fudan University, China, 2015.09-2020.06. Supervisor: [Prof. Weidong Tian](https://life.fudan.edu.cn/9f/60/c31283a368480/page.htm)
 
-* **Summer School**, University of California, Los Angeles, USA, **2013.08-2013.09**. Introduction to Biostatistics. Instructor: Prof. Gjertson, D.W.
+* **Summer School**, University of California, Los Angeles, USA, 2013.08-2013.09. Introduction to Biostatistics. Instructor: Prof. Gjertson, D.W.
 
-* **BSc**, School of Mathmatics, Shandong University, China, **2011.09-2015.06** 
+* **BSc**, School of Mathmatics, Shandong University, China, 2011.09-2015.06 
 
 <img src="https://fzhang.bioinfo-lab.com/img/white.png" height="50">
 
