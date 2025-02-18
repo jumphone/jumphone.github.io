@@ -18,7 +18,7 @@
 
 ---------------------------------------
 
-## ▸ Research studies & Publications
+## ▸ Research & Publication
 
 ---------------------------------------
 
