@@ -104,7 +104,7 @@
 
 * **Summer School**, University of California, Los Angeles, USA, 2013.08-2013.09. Introduction to Biostatistics. Instructor: Prof. Gjertson, D.W.
 
-* **BSc**, School of Mathmatics, Shandong University, China, 2011.09-2015.06 
+* **BSc**, Information Security, School of Mathmatics, Shandong University, China, 2011.09-2015.06 
 
 <img src="https://fzhang.bioinfo-lab.com/img/white.png" height="50">
 
