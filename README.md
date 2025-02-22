@@ -1,5 +1,5 @@
 <p float="left">
-<img src="https://fzhang.bioinfo-lab.com/img/biuh_logo.jpg" height="60">
+<img src="https://fzhang.bioinfo-lab.com/img/biuh_logo.jpg" height="10">
 </p>
 
 ### **Associate Professor, CS, BiUH**
