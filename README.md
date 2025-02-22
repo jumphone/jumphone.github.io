@@ -5,7 +5,7 @@
 ### **Associate Professor, CS, BiUH**
 
 ---------------------------------------
-
+**Teaching**: Programming 1 (BiUH), Data Analysis and Intro to ML (BiUH),  Population Genetics (SJTU, Shool of Medicine), Intro to bioinformatics & biostatistics (SJTU, Shool of Medicine),  RNA-seq data analys (FDU, Summer School).
 
 **Experience**: Research Associate Professor in Shanghai Jiao Tong University School of Medicine (Collaborator: [Prof Lingjie Li](https://www.shsmu.edu.cn/cbmsen/info/1072/1301.htm)). Visiting Scholar at Cincinnati Children's Hospital in the United States (Collaborator: [Prof Qing Richard Lu](https://www.cincinnatichildrens.org/bio/l/qing-richard-lu) and [Prof Yi Zheng](https://www.cincinnatichildrens.org/bio/z/yi-zheng)) 
 
