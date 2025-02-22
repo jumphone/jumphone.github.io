@@ -5,12 +5,13 @@
 ### **Associate Professor, CS, BiUH**
 
 ---------------------------------------
-**Teaching**: Programming 1 (BiUH), Data Analysis and Intro to ML (BiUH),  Population Genetics (SJTU, Shool of Medicine), Intro to bioinformatics & biostatistics (SJTU, Shool of Medicine),  RNA-seq data analysis (FDU, Summer School).
 
 **Experience**: Research Associate Professor in Shanghai Jiao Tong University School of Medicine (Collaborator: [Prof Lingjie Li](https://www.shsmu.edu.cn/cbmsen/info/1072/1301.htm)). Visiting Scholar at Cincinnati Children's Hospital in the United States (Collaborator: [Prof Qing Richard Lu](https://www.cincinnatichildrens.org/bio/l/qing-richard-lu) and [Prof Yi Zheng](https://www.cincinnatichildrens.org/bio/z/yi-zheng)) 
 
 **Education**: PhD, Biostatistics, Department of Computational Biology at the School of Life Sciences, Fudan University (Supervisor: [Prof Weidong Tian](https://life.fudan.edu.cn/9f/60/c31283a368480/page.htm)
 ). BSc, Information Security, School of Mathmatics, Shandong University. After graduating with a BSc, Feng was directly admitted to a Ph.D. program
+
+**Teaching**: Programming 1 (BiUH), Data Analysis and Intro to ML (BiUH),  Population Genetics (SJTU, Shool of Medicine), Intro to bioinformatics & biostatistics (SJTU, Shool of Medicine),  RNA-seq data analysis (FDU, Summer School).
 
 **Research**: Feng's main research area is the development and innovative application of algorithms for single-cell and spatial multi-omics data, with years of experience in algorithm development and data analysis. Feng has led projects funded by the National Natural Science Foundation of China and the Shanghai Sailing Program (sponsored by the Science and Technology Commission of Shanghai Municipality) and participated in multiple national and provincial projects. Feng's main studies in algorithm development has been published in journals such as [Cell Reports](https://doi.org/10.1016/j.celrep.2021.110009), [Cell Discovery](https://doi.org/10.1038/s41421-019-0114-x), and [Brief Bioinform](https://doi.org/10.1093/bib/bbad166), whereas his collaborative research has been published in highly reputable journals such as [Cancer Cell](https://doi.org/10.1016/j.ccell.2019.07.009), [Cell Stem Cell](https://doi.org/10.1016/j.stem.2019.03.006), and [PNAS](https://www.pnas.org/content/118/1/e2020102118).
 
