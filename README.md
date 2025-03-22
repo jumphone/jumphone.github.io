@@ -92,7 +92,9 @@
 
 &nbsp;&nbsp;
 
-* **Associate Professor**, Computer Science, Hainan Bielefeld University of Applied Sciences, China, 2025.02-present
+* **Associate Professor & Program Lead**, Digital Technologies, Hainan Bielefeld University of Applied Sciences, China, 2025.03-present
+
+* **Associate Professor**, Computer Science, Hainan Bielefeld University of Applied Sciences, China, 2025.02-2025.03
 
 * **Research Associate Professor**, Department of Histoembryology, Genetics and Developmental Biology, Shanghai Jiao Tong University School of Medicine, China, 2024.01-2025.01
 
