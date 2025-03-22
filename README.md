@@ -2,7 +2,8 @@
 <img src="https://fzhang.bioinfo-lab.com/img/biuh_logo.jpg" height="60">
 </p>
 
-### **Associate Professor & Program Lead, Digital Technologies, BiUH**
+### Associate Professor, Program Lead of Digital Technologies
+### Hainan Bielefeld University of Applied Sciences
 
 ---------------------------------------
 
@@ -122,7 +123,7 @@
 
 * **Email (private)**: jumphone at outlook.com 
 
-* **Address**: Hainan Lingshui Li’an International Education Innovation Pilot Zone, 572426, China
+* **Address**: Hainan Lingshui Li’an International Education Innovation Pilot Zone, 572400, China
 
 
 
