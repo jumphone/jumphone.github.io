@@ -2,7 +2,8 @@
 <img src="https://fzhang.bioinfo-lab.com/img/biuh_logo.jpg" height="60">
 </p>
 
-### Associate Professor, Program Lead of Digital Technologies
+### Associate Professor
+### Program Lead of Digital Technologies
 ### Hainan Bielefeld University of Applied Sciences (BiUH)
 
 ---------------------------------------
