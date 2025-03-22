@@ -3,7 +3,7 @@
 </p>
 
 ### Associate Professor, Program Lead of Digital Technologies
-### Hainan Bielefeld University of Applied Sciences
+### Hainan Bielefeld University of Applied Sciences (BiUH)
 
 ---------------------------------------
 
