@@ -2,7 +2,7 @@
 <img src="https://fzhang.bioinfo-lab.com/img/biuh_logo.jpg" height="60">
 </p>
 
-### **Associate Professor, Digital Technologies, BiUH**
+### **Associate Professor & Program Lead, Digital Technologies, BiUH**
 
 ---------------------------------------
 
