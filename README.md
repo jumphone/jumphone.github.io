@@ -71,6 +71,8 @@
 
 &nbsp;&nbsp;
 
+  * Analysis of transcriptome and chromatin accessibility changes during the differentiation of human embryonic stem cells into neural progenitor cells, **Journal of Shanghai Jiao Tong University (Medical Science)**, 2025.04, [paper](https://xuebao.shsmu.edu.cn/CN/10.3969/j.issn.1674-8115.2025.04.001), co-corresponding author
+  
   * A Novel Prognostic Signature of Mitophagy-Related E3 Ubiquitin Ligases in Breast Cancer, **International Journal of Molecular Sciences**, 2025.02, [paper](https://doi.org/10.3390/ijms26041551), co-corresponding author
 
   * Ultrasmall Cu2I2 nanoclusters trigger metabolic-epigenetic reprogramming and endogenous antioxidant systems for alleviating osteoarthritis, **Chemical Engineering Journal**, 2024.10, [paper](https://doi.org/10.1016/j.cej.2024.154568)
