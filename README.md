@@ -26,8 +26,6 @@
 
 ---------------------------------------
 
-&nbsp;&nbsp;
-
 * **Associate Professor & Program Lead**, Digital Technologies, Hainan Bielefeld University of Applied Sciences, China, 2025.03-present
 
 * **Associate Professor**, Computer Science, Hainan Bielefeld University of Applied Sciences, China, 2025.02-2025.03
@@ -52,8 +50,6 @@
 
 ---------------------------------------
 
-&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://fzhang.bioinfo-lab.com/img/email_logo.png" width="200">
-
 * **Email (work)**: feng.zhang at hainan-biuh.edu.cn
 
 * **Email (private)**: jumphone at outlook.com 
@@ -68,8 +64,6 @@
 ## ▸ Publication
 
 ---------------------------------------
-
-&nbsp;&nbsp;
 
   * Single-nucleus profiling of mouse inner ear aging uncovers cell type heterogeneity and hair cell subtype-specific age-related signatures, **Cell Reports**, 2025.06, [paper](https://doi.org/10.1016/j.celrep.2025.115781), co-first author
   
