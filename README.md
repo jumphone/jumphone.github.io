@@ -54,7 +54,7 @@
 
 * **Email (private)**: jumphone at outlook.com 
 
-* **Address**: Hainan Lingshui Li’an International Education Innovation Pilot Zone, 572400, China
+* **Address**: No. 1, Xizhao Road, Yangpu Economic Development Zone, Hainan, 578001, China
 
 
 <img src="https://fzhang.bioinfo-lab.com/img/white.png" height="50">
