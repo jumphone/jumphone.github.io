@@ -7,7 +7,7 @@
 
 ---------------------------------------
 
-**Experience**: Used to be a Research Associate Professor in Shanghai Jiao Tong University School of Medicine (Collaborator: [Prof Lingjie Li](https://www.shsmu.edu.cn/cbmsen/info/1072/1301.htm)). Used to be a Visiting Scholar at Cincinnati Children's Hospital in the United States (Collaborator: [Prof Qing Richard Lu](https://www.cincinnatichildrens.org/bio/l/qing-richard-lu) and [Prof Yi Zheng](https://www.cincinnatichildrens.org/bio/z/yi-zheng)) 
+**Experience**: Program Lead of Digital Technologies at Hainan Bielefeld University of Applied Sciences. Used to be a Research Associate Professor in Shanghai Jiao Tong University School of Medicine (Collaborator: [Prof Lingjie Li](https://www.shsmu.edu.cn/cbmsen/info/1072/1301.htm)). Used to be a Visiting Scholar at Cincinnati Children's Hospital in the United States (Collaborator: [Prof Qing Richard Lu](https://www.cincinnatichildrens.org/bio/l/qing-richard-lu) and [Prof Yi Zheng](https://www.cincinnatichildrens.org/bio/z/yi-zheng)) 
 
 **Education**: PhD, Biostatistics, Department of Computational Biology at the School of Life Sciences, Fudan University (Supervisor: [Prof Weidong Tian](https://life.fudan.edu.cn/9f/60/c31283a368480/page.htm)
 ). BSc, Information Security, School of Mathmatics, Shandong University. After graduating with a BSc, Feng was directly admitted to a PhD program
