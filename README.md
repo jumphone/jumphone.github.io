@@ -50,9 +50,9 @@
 
 ---------------------------------------
 
-* **Email (work)**: feng.zhang at hainan-biuh.edu.cn
+* **Email (work)**: feng.zhang@hainan-biuh.edu.cn
 
-* **Email (private)**: jumphone at outlook.com 
+* **Email (private)**: jumphone@outlook.com 
 
 * **Address**: No. 1, Xizhao Road, Yangpu Economic Development Zone, Hainan, 578001, China
 
