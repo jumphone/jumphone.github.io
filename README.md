@@ -65,6 +65,8 @@
 
 ---------------------------------------
 
+  * Endogenous VEGF signaling acts as a guardian of human primed pluripotency, **Nature Communications**, 2026.03, accepted (under proof-reading)
+
   * YAP-TEAD regulates the super-enhancer network to control early surface ectoderm commitment, **Nucleic Acids Research**, 2026.01, [paper](https://doi.org/10.1093/nar/gkaf1285), co-corresponding author
   
   * Single-nucleus profiling of mouse inner ear aging uncovers cell type heterogeneity and hair cell subtype-specific age-related signatures, **Cell Reports**, 2025.06, [paper](https://doi.org/10.1016/j.celrep.2025.115781), co-first author
