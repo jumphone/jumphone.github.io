@@ -128,8 +128,8 @@
   * Dual requirement of CHD8 for chromatin landscape establishment and histone methyltransferase recruitment to promote CNS myelination and repair, **Developmental Cell**, 2018.05, [paper](https://doi.org/10.1016/j.devcel.2018.05.022)
 
   * SPRINT: an SNP-free toolkit for identifying RNA editing sites, **Bioinformatics**, 2017.07, {[code](https://github.com/jumphone/SPRINT), [paper](https://doi.org/10.1093/bioinformatics/btx473)}, first author
-    
-  * Genome-wide identification of regulatory sequences undergoing accelerated evolution in the human genome, **Molecular Biology and Evolution**, 2016.07, [paper](https://doi.org/10.1093/molbev/msw128)
+
+1. Genome-wide identification of regulatory sequences undergoing accelerated evolution in the human genome, **Molecular Biology and Evolution**, 2016.07, [paper](https://doi.org/10.1093/molbev/msw128)
 
 <img src="https://fzhang.bioinfo-lab.com/img/white.png" height="50">
 
