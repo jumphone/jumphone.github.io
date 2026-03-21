@@ -65,9 +65,9 @@
 
 ---------------------------------------
 
-33. Single-cell ATAC-seq analysis of human embryoid bodies reveals crucial transcription factor networks involved in early germ layer specification, **Cell & Bioscience**, 2026.03, accepted (under proof-reading), co-first & co-corresponding author
+ 33. Single-cell ATAC-seq analysis of human embryoid bodies reveals crucial transcription factor networks involved in early germ layer specification, **Cell & Bioscience**, 2026.03, accepted (under proof-reading), co-first & co-corresponding author
 
-32. Endogenous VEGF signaling acts as a guardian of human primed pluripotency, **Nature Communications**, 2026.03, accepted (under proof-reading)
+ 32. Endogenous VEGF signaling acts as a guardian of human primed pluripotency, **Nature Communications**, 2026.03, accepted (under proof-reading)
 
 31. YAP-TEAD regulates the super-enhancer network to control early surface ectoderm commitment, **Nucleic Acids Research**, 2026.01, [paper](https://doi.org/10.1093/nar/gkaf1285), co-corresponding author
   
