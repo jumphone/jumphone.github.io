@@ -1,6 +1,6 @@
 <p float="left">
 <img src="https://fzhang.bioinfo-lab.com/img/biuh_logo.jpg" height="60">
-<img src="https://fzhang.bioinfo-lab.com/img/weight.png" width="20">
+<img src="https://fzhang.bioinfo-lab.com/img/white.png" width="20">
 <img src="https://www.bioinfo-lab.com/img/bioinfo_lab_logo_words.png" height="60">
 </p>
 
