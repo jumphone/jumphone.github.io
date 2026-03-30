@@ -1,8 +1,10 @@
 <p float="left">
+
 <img src="https://fzhang.bioinfo-lab.com/img/biuh_logo.jpg" height="60">
+
 <img src="https://fzhang.bioinfo-lab.com/img/white.png" width="30">
 
-  <a href="https://www.bioinfo-lab.com" target="_blank">
+<a href="https://www.bioinfo-lab.com" target="_blank">
   <img src="https://www.bioinfo-lab.com/img/bioinfo_lab_logo_words.png" height="60">
 </a>
   
