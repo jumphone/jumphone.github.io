@@ -11,8 +11,8 @@
 </p>
 
 ### Hainan Bielefeld University of Applied Sciences (BiUH)
-### Associate Professor, Program Lead of Digital Technologies
-### Guest Associate Professor, Department of Urology, Shanghai Children's Hospital
+#### Associate Professor, Program Lead of Digital Technologies
+#### Guest Associate Professor, Department of Urology, Shanghai Children's Hospital
 
 ---------------------------------------
 
