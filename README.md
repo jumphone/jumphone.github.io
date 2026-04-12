@@ -12,10 +12,11 @@
 
 ### Hainan Bielefeld University of Applied Sciences (BiUH)
 ### Associate Professor, Program Lead of Digital Technologies
+### Guest Associate Professor, Department of Urology, Shanghai Children's Hospital
 
 ---------------------------------------
 
-**Experience**: Program Lead of Digital Technologies at Hainan Bielefeld University of Applied Sciences. Used to be a Research Associate Professor in Shanghai Jiao Tong University School of Medicine (Collaborator: Prof Lingjie Li). Used to be a Visiting Scholar at Cincinnati Children's Hospital in the United States (Collaborator: Prof Qing Richard Lu and Prof Yi Zheng) 
+**Experience**: Used to be a Research Associate Professor in Shanghai Jiao Tong University School of Medicine (Collaborator: Prof Lingjie Li). Used to be a Visiting Scholar at Cincinnati Children's Hospital in the United States (Collaborator: Prof Qing Richard Lu and Prof Yi Zheng) 
 
 **Education**: PhD, Biostatistics, Department of Computational Biology at the School of Life Sciences, Fudan University (Supervisor: Prof Weidong Tian). BSc, Information Security, School of Mathmatics, Shandong University. After graduating with a BSc, Feng was directly admitted to a PhD program
 
