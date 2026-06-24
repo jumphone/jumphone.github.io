@@ -34,6 +34,8 @@
 
 ---------------------------------------
 
+* **Guest Associate Professor**, Department of Urology, Shanghai Children's Hospital, China, 2026.03-present
+
 * **Associate Professor & Program Lead**, Digital Technologies, Hainan Bielefeld University of Applied Sciences, China, 2025.03-present
 
 * **Associate Professor**, Computer Science, Hainan Bielefeld University of Applied Sciences, China, 2025.02-2025.03
