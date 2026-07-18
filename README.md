@@ -75,6 +75,8 @@
 
 ---------------------------------------
 
+34 Single-cell and spatial omics reveals region-specific plasticity and therapeutic vulnerabilities in metastatic high-risk neuroblastoma, **Science Advances**, 2026.07, [paper](https://doi.org/10.1126/sciadv.aec6749)
+
 33 Single-cell ATAC-seq analysis of human embryoid bodies reveals crucial transcription factor networks involved in early germ layer specification, **Cell & Bioscience**, 2026.03, [paper](https://doi.org/10.1186/s13578-026-01561-8), co-first & co-corresponding author
 
 32 Endogenous VEGF signaling acts as a guardian of human primed pluripotency, **Nature Communications**, 2026.03, [paper](https://doi.org/10.1038/s41467-026-70526-9)
