@@ -1,0 +1,208 @@
+
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Battle Tracker / 对战追踪器</title>
+<style>
+*{box-sizing:border-box;font-family:system-ui,sans-serif}
+body{margin:10px;background:#1a1a2e;color:#fff}
+.wrap{max-width:1100px;margin:0 auto}
+.row{display:grid;grid-template-columns:1fr 1fr;gap:16px}
+.player{background:#252542;padding:12px;border-radius:10px}
+h3{margin:0 0 10px 0;text-align:center}
+.field{margin-bottom:10px}
+.card-slot{background:#34345a;padding:10px;border-radius:8px;margin-bottom:8px}
+.slot-top{display:flex;justify-content:space-between;align-items:center}
+.hp{font-size:20px;font-weight:bold}
+.btns button{padding:4px 8px;margin:2px;border:none;border-radius:4px;cursor:pointer}
+.state-row{margin-top:6px}
+.state-row button{margin:2px;padding:3px 6px;font-size:12px;border:none;border-radius:4px}
+.state-active{background:#42b983;color:#000}
+.ctrl{display:flex;gap:8px;margin:12px 0;flex-wrap:wrap}
+.ctrl button{padding:8px 12px;font-size:16px;border:none;border-radius:6px;cursor:pointer}
+.coin-area{font-size:24px;text-align:center;margin:10px 0}
+</style>
+</head>
+<body>
+<div class="wrap">
+  <div class="ctrl">
+    <button onclick="flipCoin()">🪙 Flip Coin / 抛硬币</button>
+    <button onclick="undo()">↩ Undo / 撤销</button>
+    <button onclick="resetAll()">🔄 Reset All / 重置全场</button>
+  </div>
+  <div class="coin-area" id="coinText">Coin Record / 硬币记录：暂无</div>
+
+  <div class="row">
+    <!-- 玩家A -->
+    <div class="player" id="p1">
+      <h3>Player A / 玩家A</h3>
+      <div class="field">
+        <h4>Active One / 战斗区</h4>
+        <div class="card-slot" data-p="p1" data-s="active">
+          <div class="slot-top">
+            <span class="hp">HP: <input type="number" value="0" class="hp-input"></span>
+            <div class="btns">
+              <button onclick="addHp(this,10)">+10</button>
+              <button onclick="addHp(this,-10)">-10</button>
+            </div>
+          </div>
+          <div class="state-row">
+            <button onclick="toggleState(this,'poison')">Poison / 中毒</button>
+            <button onclick="toggleState(this,'burn')">Burn / 灼伤</button>
+            <button onclick="toggleState(this,'sleep')">Sleep / 睡眠</button>
+            <button onclick="toggleState(this,'confuse')">Confuse / 混乱</button>
+            <button onclick="toggleState(this,'paralyze')">Paralyze / 麻痹</button>
+          </div>
+        </div>
+      </div>
+      <div class="field">
+        <h4>Bench (Max 5) / 备战区（最多5只）</h4>
+      </div>
+    </div>
+
+    <!-- 玩家B -->
+    <div class="player" id="p2">
+      <h3>Player B / 玩家B</h3>
+      <div class="field">
+        <h4>Active One / 战斗区</h4>
+        <div class="card-slot" data-p="p2" data-s="active">
+          <div class="slot-top">
+            <span class="hp">HP: <input type="number" value="0" class="hp-input"></span>
+            <div class="btns">
+              <button onclick="addHp(this,10)">+10</button>
+              <button onclick="addHp(this,-10)">-10</button>
+            </div>
+          </div>
+          <div class="state-row">
+            <button onclick="toggleState(this,'poison')">Poison / 中毒</button>
+            <button onclick="toggleState(this,'burn')">Burn / 灼伤</button>
+            <button onclick="toggleState(this,'sleep')">Sleep / 睡眠</button>
+            <button onclick="toggleState(this,'confuse')">Confuse / 混乱</button>
+            <button onclick="toggleState(this,'paralyze')">Paralyze / 麻痹</button>
+          </div>
+        </div>
+      </div>
+      <div class="field">
+        <h4>Bench (Max 5) / 备战区（最多5只）</h4>
+      </div>
+    </div>
+  </div>
+</div>
+
+<script>
+// 历史栈用于撤销
+let history = [];
+let coinCount = 0;
+
+function saveSnapshot(){
+  history.push({
+    html: document.querySelector('.wrap').innerHTML,
+    coin: coinCount
+  });
+  if(history.length>20) history.shift();
+  saveLocal();
+}
+
+function undo(){
+  if(history.length===0) return;
+  const last = history.pop();
+  if(!last) return;
+  document.querySelector('.wrap').innerHTML = last.html;
+  coinCount = last.coin;
+  saveLocal();
+}
+
+// 抛硬币，增加计数
+function flipCoin(){
+  saveSnapshot();
+  coinCount +=1;
+  const r = Math.random()>=0.5;
+  const res = r ? "Heads / 正面" : "Tails / 反面";
+  document.getElementById('coinText').textContent = `#${coinCount} ${res}`;
+  saveLocal();
+}
+
+// HP增减
+function addHp(btn, delta){
+  saveSnapshot();
+  const inp = btn.closest('.card-slot').querySelector('.hp-input');
+  let v = Number(inp.value) + delta;
+  if(v<0)v=0;
+  inp.value = v;
+  saveLocal();
+}
+
+// 状态开关
+function toggleState(btn, st){
+  saveSnapshot();
+  btn.classList.toggle('state-active');
+  saveLocal();
+}
+
+// 生成5个备战卡位，初始HP=0
+function genBench(parentId,playerKey){
+  const wrap = document.getElementById(parentId).querySelector('.field:last-child');
+  for(let i=0;i<5;i++){
+    const div = document.createElement('div');
+    div.className = 'card-slot';
+    div.dataset.p = playerKey;
+    div.dataset.s = 'bench'+i;
+    div.innerHTML = `
+      <div class="slot-top">
+        <span class="hp">HP: <input type="number" value="0" class="hp-input"></span>
+        <div class="btns">
+          <button onclick="addHp(this,10)">+10</button>
+          <button onclick="addHp(this,-10)">-10</button>
+        </div>
+      </div>
+      <div class="state-row">
+        <button onclick="toggleState(this,'poison')">Poison / 中毒</button>
+        <button onclick="toggleState(this,'burn')">Burn / 灼伤</button>
+        <button onclick="toggleState(this,'sleep')">Sleep / 睡眠</button>
+        <button onclick="toggleState(this,'confuse')">Confuse / 混乱</button>
+        <button onclick="toggleState(this,'paralyze')">Paralyze / 麻痹</button>
+      </div>
+    `;
+    wrap.appendChild(div);
+  }
+}
+
+// 重置
+function resetAll(){
+  saveSnapshot();
+  coinCount = 0;
+  localStorage.removeItem('ptcgSave');
+  location.reload();
+}
+
+// 本地存储
+function saveLocal(){
+  const data = {
+    html: document.querySelector('.wrap').innerHTML,
+    coin: coinCount
+  }
+  localStorage.setItem('ptcgSave', JSON.stringify(data));
+}
+
+function loadLocal(){
+  const raw = localStorage.getItem('ptcgSave');
+  if(!raw) return;
+  try{
+    const data = JSON.parse(raw);
+    document.querySelector('.wrap').innerHTML = data.html;
+    coinCount = data.coin;
+  }catch(e){
+    localStorage.removeItem('ptcgSave');
+  }
+}
+
+// 初始化
+genBench('p1','p1');
+genBench('p2','p2');
+loadLocal();
+</script>
+</body>
+</html>
+
